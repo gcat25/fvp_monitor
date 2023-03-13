@@ -1,0 +1,1967 @@
+2021-04-24 14:27:17.126790:  INFO - program started
+2021-04-24 14:27:19.368166:  FATAL - Could not read csv dust data
+2021-04-24 14:36:46.216755:  INFO - program started
+2021-04-24 14:36:52.097806:  INFO - program started
+2021-04-24 14:38:40.946145:  INFO PFV - fv data updated for: 127.0.0.1
+2021-04-24 14:38:56.193351:  INFO PFV - fv data updated for: 127.0.0.1
+2021-04-24 14:44:19.222578:  INFO PFV - fv data updated for: 127.0.0.1
+2021-04-24 14:44:31.848473:  INFO_DUST - dust data updated for: 127.0.0.1
+2021-04-24 14:49:29.289910:  INFO - program started
+2021-04-24 14:50:54.212728:  INFO - program started
+2021-04-24 14:51:00.381396:  INFO - program started
+2021-04-24 14:51:37.566552:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-24 14:51:43.229440:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-24 14:51:52.159654:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-24 14:51:53.488371:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-24 14:52:31.270546:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-24 14:52:43.545851:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-24 14:53:14.780061:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-24 14:53:17.024515:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-24 14:53:30.005919:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-24 14:53:38.081637:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-25 02:20:16.898365:  INFO - program started
+2021-04-25 02:20:22.741941:  INFO - program started
+2021-04-26 02:20:17.123961:  INFO - program started
+2021-04-26 02:20:23.007365:  INFO - program started
+2021-04-26 10:45:10.435760:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 10:45:16.039178:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 10:45:17.058270:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 10:45:21.768279:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 10:45:22.697492:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:00:00.028799:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:00:02.644403:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:00:25.055104:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:00:30.528500:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:04:34.521356:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:04:41.337728:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:04:43.788952:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:26:48.124304:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:26:49.344284:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:29:35.996716:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:30:21.664367:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:30:27.773311:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:30:49.417662:  INFO PFV - fv data updated for: 193.207.214.115
+2021-04-26 11:31:19.850428:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:46:41.874248:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:46:46.608471:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:06.603111:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:28.676653:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:29.822691:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:37.262475:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:43.313277:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:49.151012:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:50.605796:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:57.727301:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:49:59.128235:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:50:21.859679:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:50:26.052517:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:50:27.490161:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:50:33.584568:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 11:53:05.048130:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:53:24.588800:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:53:32.927339:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:53:37.645176:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:53:46.064941:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:53:47.007736:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:53:47.840303:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:54:06.462266:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:54:08.634679:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:54:20.156610:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:54:22.943103:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 11:54:24.885198:  INFO_DUST - dust data updated for: 193.207.214.115
+2021-04-26 17:01:46.024963:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 17:01:57.127353:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 17:02:12.593467:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 17:02:14.275958:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 17:02:20.621673:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:45:46.712868:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:45:47.994780:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:45:51.801323:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:45:53.820601:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:46:11.768743:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:46:14.625783:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:46:17.606288:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:46:21.401417:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:46:24.541667:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:46:38.058254:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:46:39.277535:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:46:58.442656:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:47:13.891943:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:47:18.308303:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:48:37.467724:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 18:49:42.440276:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 18:49:45.686268:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 18:49:51.459757:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 18:50:24.215998:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 20:36:01.230917:  INFO - program started
+2021-04-26 20:36:10.054254:  INFO - program started
+2021-04-26 20:36:20.115451:  INFO - program started
+2021-04-26 20:36:56.450840:  INFO - program started
+2021-04-26 20:39:03.040627:  INFO - program started
+2021-04-26 20:39:09.082817:  INFO - program started
+2021-04-26 20:39:27.961410:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 20:39:43.886702:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 20:39:52.347353:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 20:39:53.618812:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 20:40:49.148278:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-26 20:41:15.367922:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 20:41:23.293688:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 20:41:25.528257:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 20:41:32.889521:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-26 20:41:42.269353:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 02:20:17.492651:  INFO - program started
+2021-04-27 02:20:23.386978:  INFO - program started
+2021-04-27 11:01:02.014773:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:01:22.012564:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:01:23.015092:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:01:28.802347:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:01:29.667570:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:01:37.539530:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:08:35.529369:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:09:08.724589:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:09:11.018126:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:09:17.789520:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:09:25.255153:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:09:28.392309:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:09:29.416615:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:09:35.107045:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:09:37.056451:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:52:25.158649:  INFO - program started
+2021-04-27 11:53:26.071365:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 11:53:36.041865:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:58:43.743676:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:58:47.150919:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:58:48.262721:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:58:55.508677:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:58:56.420927:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:03.700081:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:04.608537:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:17.432080:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:18.556834:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:25.294082:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:26.161451:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:37.969866:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:38.814178:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:46.004604:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:46.992046:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:53.320744:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 11:59:54.571110:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:18:54.073133:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:18:57.960923:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:18:59.119772:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:13.257687:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:14.928332:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:24.464460:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:28.445886:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:36.419279:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:42.035447:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:43.414734:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:51.756556:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:19:53.456005:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:20:18.571423:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:20:19.897055:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:20:31.139515:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:20:44.492554:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:20:45.660651:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:20:55.774565:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:21:20.562713:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:21:21.552050:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:21:33.543002:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:21:34.496732:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:22:03.310008:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 12:22:04.584069:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:44:38.486904:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:44:53.232606:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:44:57.765578:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:44:58.797169:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:45:02.987445:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:45:07.339940:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:45:10.048970:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:45:15.135031:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:45:16.191757:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:45:35.363798:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:45:41.328170:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:45:44.606579:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:49:50.745276:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:49:51.970892:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:49:56.147721:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:49:57.522276:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:50:02.574236:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:50:40.450425:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:50:43.756728:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:51:48.858447:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:52:06.488111:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 16:52:31.854525:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:52:39.080318:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:52:43.580461:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:52:45.850249:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:52:52.565945:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:53:09.545374:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:53:16.413329:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:53:28.793519:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:53:32.183081:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:53:34.621859:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:53:45.132177:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:58:29.673795:  INFO - program started
+2021-04-27 16:58:35.739323:  INFO - program started
+2021-04-27 16:58:50.363604:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:59:05.116560:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 16:59:07.377215:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 17:00:04.001028:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 17:00:27.892593:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 17:01:57.526536:  INFO - program started
+2021-04-27 17:02:03.633837:  INFO - program started
+2021-04-27 17:02:14.318463:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 17:03:02.594369:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 17:07:56.579052:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-27 17:08:09.256288:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:08:12.851675:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:08:14.242143:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:08:21.487784:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:08:22.565356:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:08:30.795219:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:08:32.778017:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:08:50.409723:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:08:51.434239:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:09:00.398201:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:11:49.513882:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:11:50.864306:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:11:55.938832:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:11:57.485339:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:12:11.695645:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:12:40.877738:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:12:42.283408:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:12:47.520879:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:12:48.811576:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:01.635338:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:09.685209:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:10.865732:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:19.144821:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:20.371919:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:28.241542:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:29.406724:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:41.584799:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:13:42.738176:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 17:17:23.311134:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 18:06:34.152884:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-27 18:06:35.370785:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 02:20:17.078117:  INFO - program started
+2021-04-28 02:20:22.980853:  INFO - program started
+2021-04-28 10:49:50.908889:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 11:28:01.290694:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-28 11:28:10.955122:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-28 11:29:21.944334:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 11:29:36.723462:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 11:29:39.156306:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 11:29:51.649626:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 11:29:53.396500:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 11:30:05.156164:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 11:30:07.592590:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-28 16:50:40.075313:  INFO PFV - fv data updated for: 193.207.132.57
+2021-04-28 16:52:02.763169:  INFO PFV - fv data updated for: 193.207.132.57
+2021-04-29 02:20:17.258509:  INFO - program started
+2021-04-29 02:20:23.208515:  INFO - program started
+2021-04-29 09:44:29.300956:  INFO PFV - fv data updated for: 193.207.131.94
+2021-04-29 09:54:23.792271:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-29 09:54:34.578677:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-29 09:54:52.807012:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-29 09:54:55.567798:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-29 09:55:02.862201:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-29 09:55:45.062011:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-29 09:55:46.330138:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-29 09:56:20.757607:  INFO_DUST - dust data updated for: 193.207.131.94
+2021-04-29 10:32:16.361233:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-30 02:20:17.623567:  INFO - program started
+2021-04-30 02:20:23.593332:  INFO - program started
+2021-04-30 10:27:07.064998:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-04-30 12:17:58.514636:  INFO PFV - fv data updated for: 192.168.2.6
+2021-04-30 12:18:07.130348:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-01 02:20:17.218859:  INFO - program started
+2021-05-01 02:20:23.197683:  INFO - program started
+2021-05-01 17:25:51.172478:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-01 17:26:17.882718:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-01 17:26:37.552238:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-01 17:27:13.553240:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-01 17:28:32.655286:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-01 17:28:36.831748:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-01 17:28:38.117113:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-01 17:29:01.431866:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-01 17:29:02.999591:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-02 02:20:18.459738:  INFO - program started
+2021-05-02 02:20:24.473629:  INFO - program started
+2021-05-03 02:20:16.953472:  INFO - program started
+2021-05-03 02:20:22.922592:  INFO - program started
+2021-05-04 02:20:17.618298:  INFO - program started
+2021-05-04 02:20:24.728395:  INFO - program started
+2021-05-05 02:20:17.143030:  INFO - program started
+2021-05-05 02:20:23.159136:  INFO - program started
+2021-05-06 02:20:17.673840:  INFO - program started
+2021-05-06 02:20:23.699468:  INFO - program started
+2021-05-07 02:20:17.172607:  INFO - program started
+2021-05-07 02:20:23.276611:  INFO - program started
+2021-05-08 02:20:17.362931:  INFO - program started
+2021-05-08 02:20:23.431091:  INFO - program started
+2021-05-09 02:20:17.876458:  INFO - program started
+2021-05-09 02:20:23.958192:  INFO - program started
+2021-05-10 02:20:17.747350:  INFO - program started
+2021-05-10 02:20:23.835184:  INFO - program started
+2021-05-11 02:20:17.259614:  INFO - program started
+2021-05-11 02:20:23.424981:  INFO - program started
+2021-05-11 09:28:16.032452:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-11 09:28:27.351525:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-11 09:28:36.987939:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-11 09:28:39.258951:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-11 09:29:09.179011:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-11 09:29:29.478526:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-11 09:29:30.906321:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-11 09:29:42.071582:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-11 12:34:39.602958:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-11 12:34:54.843056:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-11 16:25:33.499466:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-12 02:20:18.018675:  INFO - program started
+2021-05-12 02:20:24.137782:  INFO - program started
+2021-05-13 02:20:17.824166:  INFO - program started
+2021-05-13 02:20:24.807357:  INFO - program started
+2021-05-14 02:20:17.571149:  INFO - program started
+2021-05-14 02:20:23.738327:  INFO - program started
+2021-05-15 02:20:17.768474:  INFO - program started
+2021-05-15 02:20:23.963127:  INFO - program started
+2021-05-16 02:20:17.690454:  INFO - program started
+2021-05-16 02:20:23.904772:  INFO - program started
+2021-05-17 02:20:17.135649:  INFO - program started
+2021-05-17 02:20:24.046053:  INFO - program started
+2021-05-18 02:20:17.731186:  INFO - program started
+2021-05-18 02:20:23.936573:  INFO - program started
+2021-05-19 02:20:16.865894:  INFO - program started
+2021-05-19 02:20:23.115756:  INFO - program started
+2021-05-20 02:20:17.117286:  INFO - program started
+2021-05-20 02:20:23.369042:  INFO - program started
+2021-05-21 02:20:17.371287:  INFO - program started
+2021-05-21 02:20:23.629139:  INFO - program started
+2021-05-22 02:20:17.210075:  INFO - program started
+2021-05-22 02:20:23.489944:  INFO - program started
+2021-05-23 02:20:17.126901:  INFO - program started
+2021-05-23 02:20:23.415817:  INFO - program started
+2021-05-24 02:20:17.094265:  INFO - program started
+2021-05-24 02:20:23.392804:  INFO - program started
+2021-05-25 02:20:17.610449:  INFO - program started
+2021-05-25 02:20:23.946936:  INFO - program started
+2021-05-26 02:20:17.436163:  INFO - program started
+2021-05-26 02:20:23.838692:  INFO - program started
+2021-05-27 02:20:17.119432:  INFO - program started
+2021-05-27 02:20:23.481889:  INFO - program started
+2021-05-28 02:20:17.558873:  INFO - program started
+2021-05-28 02:20:23.952802:  INFO - program started
+2021-05-29 02:20:16.820255:  INFO - program started
+2021-05-29 02:20:23.226872:  INFO - program started
+2021-05-30 02:20:17.256151:  INFO - program started
+2021-05-30 02:20:23.647603:  INFO - program started
+2021-05-31 02:20:17.098758:  INFO - program started
+2021-05-31 02:20:23.530326:  INFO - program started
+2021-05-31 08:27:14.576020:  INFO - program started
+2021-05-31 08:27:21.117862:  INFO - program started
+2021-05-31 08:27:33.126500:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-31 08:27:41.967548:  INFO PFV - fv data updated for: 192.168.2.6
+2021-05-31 08:28:00.840159:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-31 08:28:14.798397:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-05-31 08:28:16.107640:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-06-01 02:20:17.726149:  INFO - program started
+2021-06-01 02:20:24.161403:  INFO - program started
+2021-06-02 02:20:17.290960:  INFO - program started
+2021-06-02 02:20:23.744812:  INFO - program started
+2021-06-03 02:20:17.698286:  INFO - program started
+2021-06-03 02:20:24.134323:  INFO - program started
+2021-06-04 02:20:17.733317:  INFO - program started
+2021-06-04 02:20:24.183633:  INFO - program started
+2021-06-05 02:20:17.268981:  INFO - program started
+2021-06-05 02:20:23.756495:  INFO - program started
+2021-06-06 02:20:17.760120:  INFO - program started
+2021-06-06 02:20:24.272730:  INFO - program started
+2021-06-07 02:20:17.539224:  INFO - program started
+2021-06-07 02:20:24.098149:  INFO - program started
+2021-06-08 02:20:17.722989:  INFO - program started
+2021-06-08 02:20:24.255238:  INFO - program started
+2021-06-09 02:20:17.718354:  INFO - program started
+2021-06-09 02:20:24.215487:  INFO - program started
+2021-06-10 02:20:17.654169:  INFO - program started
+2021-06-10 02:20:24.220240:  INFO - program started
+2021-06-11 02:20:17.523726:  INFO - program started
+2021-06-11 02:20:24.175640:  INFO - program started
+2021-06-11 09:46:50.874313:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:46:59.691825:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:47:02.970429:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:47:15.571753:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:47:36.540819:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:47:39.011625:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:48:03.310946:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:48:05.783176:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:48:36.704496:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-11 09:48:39.187250:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-12 02:20:17.227164:  INFO - program started
+2021-06-12 02:20:23.807380:  INFO - program started
+2021-06-13 02:20:17.407802:  INFO - program started
+2021-06-13 02:20:24.068014:  INFO - program started
+2021-06-14 02:20:17.323724:  INFO - program started
+2021-06-14 02:20:23.944781:  INFO - program started
+2021-06-15 02:20:17.023415:  INFO - program started
+2021-06-15 02:20:23.683818:  INFO - program started
+2021-06-16 02:20:17.850563:  INFO - program started
+2021-06-16 02:20:24.490378:  INFO - program started
+2021-06-17 02:20:17.706386:  INFO - program started
+2021-06-17 02:20:24.376395:  INFO - program started
+2021-06-18 02:20:17.362876:  INFO - program started
+2021-06-18 02:20:24.053752:  INFO - program started
+2021-06-19 02:20:17.337857:  INFO - program started
+2021-06-19 02:20:24.063643:  INFO - program started
+2021-06-20 02:20:17.529049:  INFO - program started
+2021-06-20 02:20:24.253619:  INFO - program started
+2021-06-21 02:20:17.029771:  INFO - program started
+2021-06-21 02:20:23.793145:  INFO - program started
+2021-06-22 02:20:17.306634:  INFO - program started
+2021-06-22 02:20:24.099767:  INFO - program started
+2021-06-23 02:20:17.434028:  INFO - program started
+2021-06-23 02:20:24.251872:  INFO - program started
+2021-06-23 09:08:36.377349:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 09:08:50.631867:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 09:08:53.100629:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 09:09:06.126375:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 09:09:08.604285:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 11:14:16.421275:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 11:14:25.175933:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-06-23 12:39:13.780517:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:39:32.054966:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:39:43.443648:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:39:51.303842:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:40:01.788722:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:40:01.793885:  FATAL - Could not read csv fv data
+2021-06-23 12:40:05.445279:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:40:09.344559:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:40:17.818632:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:40:27.511476:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:40:30.270459:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:40:38.805098:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-23 12:40:56.832456:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 02:20:16.993662:  INFO - program started
+2021-06-24 02:20:23.791719:  INFO - program started
+2021-06-24 08:38:39.172060:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:38:47.149025:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:38:49.706367:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:38:52.924732:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:39:08.324443:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:39:10.873864:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:39:28.068531:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:39:30.786900:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:39:44.754245:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:39:47.269447:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:40:00.897183:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-24 08:40:03.444947:  INFO PFV - fv data updated for: 192.168.2.6
+2021-06-25 02:20:17.724743:  INFO - program started
+2021-06-25 02:20:24.533359:  INFO - program started
+2021-06-26 02:20:17.167756:  INFO - program started
+2021-06-26 02:20:23.970586:  INFO - program started
+2021-06-27 02:20:17.892543:  INFO - program started
+2021-06-27 02:20:24.758632:  INFO - program started
+2021-06-28 02:20:17.175402:  INFO - program started
+2021-06-28 02:20:24.019357:  INFO - program started
+2021-06-29 02:20:17.750908:  INFO - program started
+2021-06-29 02:20:24.615441:  INFO - program started
+2021-06-30 02:20:17.431363:  INFO - program started
+2021-06-30 02:20:24.312612:  INFO - program started
+2021-07-01 02:20:17.847366:  INFO - program started
+2021-07-01 02:20:24.724898:  INFO - program started
+2021-07-02 02:20:17.252543:  INFO - program started
+2021-07-02 02:20:24.157780:  INFO - program started
+2021-07-03 02:20:17.550872:  INFO - program started
+2021-07-03 02:20:24.464731:  INFO - program started
+2021-07-04 02:20:17.438634:  INFO - program started
+2021-07-04 02:20:24.398336:  INFO - program started
+2021-07-05 02:20:17.653131:  INFO - program started
+2021-07-05 02:20:24.635648:  INFO - program started
+2021-07-05 16:10:58.851136:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-05 16:11:10.235568:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-05 16:11:27.942074:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-05 16:11:30.510023:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-06 02:20:17.045373:  INFO - program started
+2021-07-06 02:20:23.951431:  INFO - program started
+2021-07-07 02:20:17.170450:  INFO - program started
+2021-07-07 02:20:24.158980:  INFO - program started
+2021-07-08 02:20:16.896059:  INFO - program started
+2021-07-08 02:20:23.866622:  INFO - program started
+2021-07-09 02:20:17.426325:  INFO - program started
+2021-07-09 02:20:24.484815:  INFO - program started
+2021-07-10 02:20:17.386625:  INFO - program started
+2021-07-10 02:20:24.361279:  INFO - program started
+2021-07-11 02:20:17.869734:  INFO - program started
+2021-07-11 02:20:24.894402:  INFO - program started
+2021-07-12 02:20:17.722011:  INFO - program started
+2021-07-12 02:20:24.800586:  INFO - program started
+2021-07-13 02:20:17.832411:  INFO - program started
+2021-07-13 02:20:24.997746:  INFO - program started
+2021-07-14 02:20:17.311419:  INFO - program started
+2021-07-14 02:20:24.365381:  INFO - program started
+2021-07-15 02:20:17.651767:  INFO - program started
+2021-07-15 02:20:24.782860:  INFO - program started
+2021-07-16 02:20:17.066392:  INFO - program started
+2021-07-16 02:20:24.183689:  INFO - program started
+2021-07-17 02:20:17.675757:  INFO - program started
+2021-07-17 02:20:24.873754:  INFO - program started
+2021-07-18 02:20:16.991433:  INFO - program started
+2021-07-18 02:20:24.151141:  INFO - program started
+2021-07-19 02:20:17.271796:  INFO - program started
+2021-07-19 02:20:24.456337:  INFO - program started
+2021-07-20 02:20:16.964124:  INFO - program started
+2021-07-20 02:20:24.172207:  INFO - program started
+2021-07-21 02:20:16.950497:  INFO - program started
+2021-07-21 02:20:24.253141:  INFO - program started
+2021-07-22 02:20:17.447341:  INFO - program started
+2021-07-22 02:20:24.660767:  INFO - program started
+2021-07-23 02:20:17.263420:  INFO - program started
+2021-07-23 02:20:24.560597:  INFO - program started
+2021-07-24 02:20:17.567500:  INFO - program started
+2021-07-24 02:20:24.825268:  INFO - program started
+2021-07-24 11:08:38.148581:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 11:08:47.636236:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 11:08:50.288167:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 11:08:58.332030:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 11:39:50.140136:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 11:40:04.440608:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 11:40:07.324924:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 11:40:16.070032:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 12:36:29.324653:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 12:36:40.210255:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 14:42:43.044582:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-24 14:42:54.069664:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-25 02:20:17.753588:  INFO - program started
+2021-07-25 02:20:25.014610:  INFO - program started
+2021-07-25 12:49:18.187358:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-25 12:49:26.708585:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-25 12:49:56.444145:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-25 12:49:59.129081:  INFO PFV - fv data updated for: 192.168.2.6
+2021-07-26 02:20:17.305636:  INFO - program started
+2021-07-26 02:20:24.570595:  INFO - program started
+2021-07-27 02:20:17.403658:  INFO - program started
+2021-07-27 02:20:25.676453:  INFO - program started
+2021-07-28 02:20:16.896192:  INFO - program started
+2021-07-28 02:20:24.255806:  INFO - program started
+2021-07-29 02:20:17.416319:  INFO - program started
+2021-07-29 02:20:24.715139:  INFO - program started
+2021-07-30 02:20:17.205621:  INFO - program started
+2021-07-30 02:20:24.588609:  INFO - program started
+2021-07-31 02:20:17.390420:  INFO - program started
+2021-07-31 02:20:24.776784:  INFO - program started
+2021-08-01 02:20:17.174705:  INFO - program started
+2021-08-01 02:20:24.562652:  INFO - program started
+2021-08-02 02:20:17.459243:  INFO - program started
+2021-08-02 02:20:24.843551:  INFO - program started
+2021-08-03 02:20:17.363035:  INFO - program started
+2021-08-03 02:20:24.752554:  INFO - program started
+2021-08-04 02:20:17.683939:  INFO - program started
+2021-08-04 02:20:25.047093:  INFO - program started
+2021-08-05 02:20:16.989229:  INFO - program started
+2021-08-05 02:20:24.379664:  INFO - program started
+2021-08-06 02:20:17.650657:  INFO - program started
+2021-08-06 02:20:25.086076:  INFO - program started
+2021-08-07 02:20:17.206716:  INFO - program started
+2021-08-07 02:20:24.676712:  INFO - program started
+2021-08-08 02:20:17.569758:  INFO - program started
+2021-08-08 02:20:25.025872:  INFO - program started
+2021-08-09 02:20:17.170530:  INFO - program started
+2021-08-09 02:20:24.637236:  INFO - program started
+2021-08-10 02:20:17.282126:  INFO - program started
+2021-08-10 02:20:24.842831:  INFO - program started
+2021-08-11 02:20:17.573073:  INFO - program started
+2021-08-11 02:20:25.129509:  INFO - program started
+2021-08-12 02:20:17.658986:  INFO - program started
+2021-08-12 02:20:25.157309:  INFO - program started
+2021-08-13 02:20:17.789781:  INFO - program started
+2021-08-13 02:20:25.339610:  INFO - program started
+2021-08-14 02:20:17.155231:  INFO - program started
+2021-08-14 02:20:24.721956:  INFO - program started
+2021-08-15 02:20:17.387406:  INFO - program started
+2021-08-15 02:20:24.933986:  INFO - program started
+2021-08-16 02:20:17.687706:  INFO - program started
+2021-08-16 02:20:25.092977:  INFO - program started
+2021-08-17 02:20:17.336260:  INFO - program started
+2021-08-17 02:20:24.803570:  INFO - program started
+2021-08-18 02:20:17.510736:  INFO - program started
+2021-08-18 02:20:25.009402:  INFO - program started
+2021-08-19 02:20:18.096171:  INFO - program started
+2021-08-19 02:20:25.725467:  INFO - program started
+2021-08-20 02:20:17.090991:  INFO - program started
+2021-08-20 02:20:24.761938:  INFO - program started
+2021-08-21 02:20:17.231083:  INFO - program started
+2021-08-21 02:20:24.794395:  INFO - program started
+2021-08-22 02:20:17.430423:  INFO - program started
+2021-08-22 02:20:25.006475:  INFO - program started
+2021-08-23 02:20:16.985730:  INFO - program started
+2021-08-23 02:20:24.643418:  INFO - program started
+2021-08-24 02:20:17.329140:  INFO - program started
+2021-08-24 02:20:25.062301:  INFO - program started
+2021-08-25 02:20:17.137496:  INFO - program started
+2021-08-25 02:20:24.840609:  INFO - program started
+2021-08-26 02:20:17.577137:  INFO - program started
+2021-08-26 02:20:25.257013:  INFO - program started
+2021-08-27 02:20:17.519624:  INFO - program started
+2021-08-27 02:20:25.150825:  INFO - program started
+2021-08-28 02:20:17.253418:  INFO - program started
+2021-08-28 02:20:24.927287:  INFO - program started
+2021-08-29 02:20:17.527725:  INFO - program started
+2021-08-29 02:20:25.289750:  INFO - program started
+2021-08-30 02:20:17.264287:  INFO - program started
+2021-08-30 02:20:25.052023:  INFO - program started
+2021-08-31 02:20:17.007846:  INFO - program started
+2021-08-31 02:20:24.686487:  INFO - program started
+2021-09-01 02:20:17.142580:  INFO - program started
+2021-09-01 02:20:24.853431:  INFO - program started
+2021-09-02 02:20:17.018210:  INFO - program started
+2021-09-02 02:20:24.742959:  INFO - program started
+2021-09-03 02:20:17.529012:  INFO - program started
+2021-09-03 02:20:25.370197:  INFO - program started
+2021-09-04 02:20:17.303350:  INFO - program started
+2021-09-04 02:20:25.082594:  INFO - program started
+2021-09-05 02:20:17.162028:  INFO - program started
+2021-09-05 02:20:24.962254:  INFO - program started
+2021-09-06 02:20:17.280569:  INFO - program started
+2021-09-06 02:20:25.102754:  INFO - program started
+2021-09-07 02:20:17.271575:  INFO - program started
+2021-09-07 02:20:25.163603:  INFO - program started
+2021-09-07 13:45:55.301774:  INFO PFV - fv data updated for: 192.168.2.6
+2021-09-07 13:46:17.764738:  INFO PFV - fv data updated for: 192.168.2.6
+2021-09-07 13:46:38.493439:  INFO PFV - fv data updated for: 192.168.2.6
+2021-09-07 13:46:41.394245:  INFO PFV - fv data updated for: 192.168.2.6
+2021-09-07 13:47:37.812535:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-09-07 13:47:47.477335:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-09-07 13:47:48.859411:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-09-07 13:47:59.193567:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-09-07 13:48:17.023737:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-09-07 13:48:18.324444:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-09-08 02:20:17.236789:  INFO - program started
+2021-09-08 02:20:25.146850:  INFO - program started
+2021-09-09 02:20:17.273865:  INFO - program started
+2021-09-09 02:20:25.143826:  INFO - program started
+2021-09-10 02:20:17.403477:  INFO - program started
+2021-09-10 02:20:25.280694:  INFO - program started
+2021-09-11 02:20:17.508243:  INFO - program started
+2021-09-11 02:20:25.497279:  INFO - program started
+2021-09-12 02:20:17.514172:  INFO - program started
+2021-09-12 02:20:25.455337:  INFO - program started
+2021-09-13 02:20:17.212041:  INFO - program started
+2021-09-13 02:20:25.223704:  INFO - program started
+2021-09-14 02:20:17.671316:  INFO - program started
+2021-09-14 02:20:25.639599:  INFO - program started
+2021-09-15 02:20:17.579239:  INFO - program started
+2021-09-15 02:20:26.227416:  INFO - program started
+2021-09-16 02:20:16.937077:  INFO - program started
+2021-09-16 02:20:25.020564:  INFO - program started
+2021-09-17 02:20:17.308819:  INFO - program started
+2021-09-17 02:20:25.355014:  INFO - program started
+2021-09-18 02:20:17.018274:  INFO - program started
+2021-09-18 02:20:25.011839:  INFO - program started
+2021-09-19 02:20:17.632092:  INFO - program started
+2021-09-19 02:20:25.688306:  INFO - program started
+2021-09-20 02:20:17.067157:  INFO - program started
+2021-09-20 02:20:25.095788:  INFO - program started
+2021-09-21 02:20:16.902386:  INFO - program started
+2021-09-21 02:20:24.965735:  INFO - program started
+2021-09-22 02:20:17.181250:  INFO - program started
+2021-09-22 02:20:25.329230:  INFO - program started
+2021-09-23 02:20:17.096124:  INFO - program started
+2021-09-23 02:20:25.112862:  INFO - program started
+2021-09-24 02:20:17.011040:  INFO - program started
+2021-09-24 02:20:25.155392:  INFO - program started
+2021-09-25 02:20:17.245058:  INFO - program started
+2021-09-25 02:20:25.348896:  INFO - program started
+2021-09-26 02:20:17.440725:  INFO - program started
+2021-09-26 02:20:25.628178:  INFO - program started
+2021-09-27 02:20:16.819669:  INFO - program started
+2021-09-27 02:20:25.004459:  INFO - program started
+2021-09-28 02:20:17.663505:  INFO - program started
+2021-09-28 02:20:25.835559:  INFO - program started
+2021-09-29 02:20:17.694659:  INFO - program started
+2021-09-29 02:20:25.836822:  INFO - program started
+2021-09-30 02:20:17.125626:  INFO - program started
+2021-09-30 02:20:25.890924:  INFO - program started
+2021-10-01 02:20:17.641021:  INFO - program started
+2021-10-01 02:20:25.814450:  INFO - program started
+2021-10-02 02:20:17.540842:  INFO - program started
+2021-10-02 02:20:25.763703:  INFO - program started
+2021-10-03 02:20:17.551588:  INFO - program started
+2021-10-03 02:20:25.806771:  INFO - program started
+2021-10-04 02:20:17.704997:  INFO - program started
+2021-10-04 02:20:25.897525:  INFO - program started
+2021-10-04 10:28:13.442939:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:28:24.015814:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:28:25.743511:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:28:36.475174:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:28:38.379935:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:28:53.704205:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:28:55.500069:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:29:06.218721:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:29:08.491972:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:29:22.506582:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:29:44.288328:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:29:57.206039:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:30:00.484282:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:30:11.737967:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:30:20.672740:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:30:23.691434:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:30:34.509052:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:30:53.939756:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:31:00.089604:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:31:03.060489:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:31:14.354714:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:31:42.554976:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:31:45.486524:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:31:57.140175:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:32:17.889644:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:32:23.744142:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:43:49.260596:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:43:55.243321:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:43:56.661684:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:44:05.793049:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:46:28.806017:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:55:07.774590:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:55:17.774889:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:55:22.517464:  INFO_DUST - dust data updated for: 192.168.2.6
+2021-10-04 10:57:40.825271:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:57:47.245350:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:57:55.975122:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:57:59.471196:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 10:58:12.959294:  INFO PFV - fv data updated for: 192.168.2.6
+2021-10-04 11:20:11.515903:  INFO - program started
+2021-10-04 11:20:23.041970:  INFO PFV - fv data updated for: 192.168.2.6for date: 2021-10-4
+2021-10-04 11:21:41.105565:  INFO - program started
+2021-10-04 11:21:48.668448:  INFO PFV - fv data updated for: 192.168.2.6 @or date: 2021-10-4
+2021-10-04 11:22:01.433097:  INFO - program started
+2021-10-04 11:22:08.955636:  INFO PFV - fv data updated for: 192.168.2.6 @date: 2021-10-4
+2021-10-04 11:22:16.979101:  INFO - program started
+2021-10-04 11:22:24.184235:  INFO PFV - fv data updated for: 192.168.2.6 @date: 2021-10-4
+2021-10-04 11:22:59.809076:  INFO PFV - fv data updated for: 192.168.2.6 @date: 2021-10-3
+2021-10-04 11:23:02.838350:  INFO PFV - fv data updated for: 192.168.2.6 @date: 2021-10-3
+2021-10-04 11:24:10.784621:  INFO PFV - fv data updated for: 192.168.2.6 @date: 2021-10-3
+2021-10-04 11:24:52.805672:  INFO PFV - fv data updated for: 192.168.2.6 @date: 2021-10-1
+2021-10-04 11:24:56.143667:  INFO PFV - fv data updated for: 192.168.2.6 @date: 2021-10-1
+2021-10-05 02:20:17.010288:  INFO - program started
+2021-10-05 02:20:25.387790:  INFO - program started
+2021-10-06 02:20:17.683440:  INFO - program started
+2021-10-06 02:20:26.021115:  INFO - program started
+2021-10-07 02:20:17.792666:  INFO - program started
+2021-10-07 02:20:26.168578:  INFO - program started
+2021-10-08 02:20:17.272488:  INFO - program started
+2021-10-08 02:20:25.669139:  INFO - program started
+2021-10-09 02:20:17.414012:  INFO - program started
+2021-10-09 02:20:25.909493:  INFO - program started
+2021-10-10 02:20:17.761395:  INFO - program started
+2021-10-10 02:20:26.177312:  INFO - program started
+2021-10-11 02:20:17.379011:  INFO - program started
+2021-10-11 02:20:25.699684:  INFO - program started
+2021-10-12 02:20:17.765537:  INFO - program started
+2021-10-12 02:20:26.194126:  INFO - program started
+2021-10-13 02:20:17.102546:  INFO - program started
+2021-10-13 02:20:27.128131:  INFO - program started
+2021-10-14 02:20:17.463320:  INFO - program started
+2021-10-14 02:20:25.918877:  INFO - program started
+2021-10-15 02:20:16.926738:  INFO - program started
+2021-10-15 02:20:25.313476:  INFO - program started
+2021-10-16 02:20:17.172917:  INFO - program started
+2021-10-16 02:20:25.621130:  INFO - program started
+2021-10-17 02:20:17.413009:  INFO - program started
+2021-10-17 02:20:25.969818:  INFO - program started
+2021-10-18 02:20:17.077738:  INFO - program started
+2021-10-18 02:20:25.647836:  INFO - program started
+2021-10-19 02:20:17.532453:  INFO - program started
+2021-10-19 02:20:26.060621:  INFO - program started
+2021-10-20 02:20:17.049468:  INFO - program started
+2021-10-20 02:20:25.575531:  INFO - program started
+2021-10-21 02:20:17.810336:  INFO - program started
+2021-10-21 02:20:26.379536:  INFO - program started
+2021-10-22 02:20:17.612781:  INFO - program started
+2021-10-22 02:20:26.167128:  INFO - program started
+2021-10-23 02:20:17.792739:  INFO - program started
+2021-10-23 02:20:26.323277:  INFO - program started
+2021-10-24 02:20:16.854998:  INFO - program started
+2021-10-24 02:20:25.512870:  INFO - program started
+2021-10-25 02:20:17.331006:  INFO - program started
+2021-10-25 02:20:25.940163:  INFO - program started
+2021-10-26 02:20:17.754146:  INFO - program started
+2021-10-26 02:20:26.337057:  INFO - program started
+2021-10-27 02:20:17.397035:  INFO - program started
+2021-10-27 02:20:26.071466:  INFO - program started
+2021-10-28 02:20:16.873750:  INFO - program started
+2021-10-28 02:20:25.528428:  INFO - program started
+2021-10-29 02:20:17.232850:  INFO - program started
+2021-10-29 02:20:25.928537:  INFO - program started
+2021-10-30 02:20:17.730084:  INFO - program started
+2021-10-30 02:20:26.377199:  INFO - program started
+2021-10-31 02:20:16.960250:  INFO - program started
+2021-10-31 02:20:25.708418:  INFO - program started
+2021-11-01 02:20:17.312037:  INFO - program started
+2021-11-01 02:20:26.041548:  INFO - program started
+2021-11-01 19:22:36.150762:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-1
+2021-11-01 19:22:45.262668:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-1
+2021-11-01 19:22:57.983377:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-10-1
+2021-11-01 19:23:04.228893:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-10-30
+2021-11-01 19:23:07.349370:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-10-30
+2021-11-01 19:23:49.599560:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-10-30
+2021-11-02 02:20:17.075388:  INFO - program started
+2021-11-02 02:20:25.778471:  INFO - program started
+2021-11-03 02:20:17.498671:  INFO - program started
+2021-11-03 02:20:26.302471:  INFO - program started
+2021-11-04 02:20:17.084672:  INFO - program started
+2021-11-04 02:20:25.835717:  INFO - program started
+2021-11-04 15:33:01.720531:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-4
+2021-11-04 15:33:11.321352:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-4
+2021-11-04 15:33:54.804506:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-3
+2021-11-04 15:33:57.999167:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-3
+2021-11-04 15:34:52.401738:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-2
+2021-11-04 15:34:55.514387:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-2
+2021-11-04 15:35:52.579734:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-4
+2021-11-04 15:35:55.928319:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-4
+2021-11-04 15:37:40.562326:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-11-4
+2021-11-04 15:38:34.420529:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-4
+2021-11-04 15:38:54.388628:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-4
+2021-11-05 02:20:17.778048:  INFO - program started
+2021-11-05 02:20:26.513009:  INFO - program started
+2021-11-06 02:20:17.477498:  INFO - program started
+2021-11-06 02:20:26.345315:  INFO - program started
+2021-11-07 02:20:16.926805:  INFO - program started
+2021-11-07 02:20:25.730459:  INFO - program started
+2021-11-08 02:20:17.877362:  INFO - program started
+2021-11-08 02:20:26.626381:  INFO - program started
+2021-11-09 02:20:17.221783:  INFO - program started
+2021-11-09 02:20:26.092497:  INFO - program started
+2021-11-10 02:20:17.759270:  INFO - program started
+2021-11-10 02:20:26.550403:  INFO - program started
+2021-11-11 02:20:17.732512:  INFO - program started
+2021-11-11 02:20:26.585551:  INFO - program started
+2021-11-12 02:20:16.932177:  INFO - program started
+2021-11-12 02:20:25.778699:  INFO - program started
+2021-11-13 02:20:17.963355:  INFO - program started
+2021-11-13 02:20:26.843444:  INFO - program started
+2021-11-14 02:20:16.912567:  INFO - program started
+2021-11-14 02:20:25.894368:  INFO - program started
+2021-11-15 02:20:16.958728:  INFO - program started
+2021-11-15 02:20:25.815952:  INFO - program started
+2021-11-16 02:20:17.593389:  INFO - program started
+2021-11-16 02:20:26.558384:  INFO - program started
+2021-11-17 02:20:17.059323:  INFO - program started
+2021-11-17 02:20:27.266352:  INFO - program started
+2021-11-18 02:20:17.130684:  INFO - program started
+2021-11-18 02:20:26.184863:  INFO - program started
+2021-11-18 12:59:18.608188:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-18
+2021-11-18 12:59:30.450771:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-18
+2021-11-18 12:59:53.633343:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-17
+2021-11-18 12:59:56.864753:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-11-17
+2021-11-19 02:20:17.541838:  INFO - program started
+2021-11-19 02:20:26.491205:  INFO - program started
+2021-11-20 02:20:17.685046:  INFO - program started
+2021-11-20 02:20:26.635630:  INFO - program started
+2021-11-21 02:20:17.541576:  INFO - program started
+2021-11-21 02:20:26.641255:  INFO - program started
+2021-11-22 02:20:17.241068:  INFO - program started
+2021-11-22 02:20:26.260171:  INFO - program started
+2021-11-23 02:20:18.312318:  INFO - program started
+2021-11-23 02:20:27.374957:  INFO - program started
+2021-11-24 02:20:19.972575:  INFO - program started
+2021-11-24 02:20:29.001428:  INFO - program started
+2021-11-25 02:20:19.870947:  INFO - program started
+2021-11-25 02:20:29.004725:  INFO - program started
+2021-11-26 02:20:17.961695:  INFO - program started
+2021-11-26 02:20:27.117656:  INFO - program started
+2021-11-27 02:20:17.621202:  INFO - program started
+2021-11-27 02:20:26.681750:  INFO - program started
+2021-11-28 02:20:17.456222:  INFO - program started
+2021-11-28 02:20:26.707561:  INFO - program started
+2021-11-29 02:20:16.885848:  INFO - program started
+2021-11-29 02:20:26.105984:  INFO - program started
+2021-11-30 02:20:17.774580:  INFO - program started
+2021-11-30 02:20:26.931169:  INFO - program started
+2021-12-01 02:20:18.065298:  INFO - program started
+2021-12-01 02:20:27.261749:  INFO - program started
+2021-12-02 02:20:17.620912:  INFO - program started
+2021-12-02 02:20:26.698925:  INFO - program started
+2021-12-03 02:20:18.104159:  INFO - program started
+2021-12-03 02:20:27.298412:  INFO - program started
+2021-12-04 02:20:17.808278:  INFO - program started
+2021-12-04 02:20:27.055487:  INFO - program started
+2021-12-05 02:20:17.634736:  INFO - program started
+2021-12-05 02:20:26.765429:  INFO - program started
+2021-12-06 02:20:17.918319:  INFO - program started
+2021-12-06 02:20:27.141599:  INFO - program started
+2021-12-06 10:32:07.856538:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-12-6
+2021-12-06 10:32:41.492261:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-6
+2021-12-06 10:32:59.719206:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-5
+2021-12-06 10:33:00.958599:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-5
+2021-12-06 10:33:22.311603:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-4
+2021-12-06 10:33:23.810042:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-4
+2021-12-06 10:33:36.726290:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-4
+2021-12-06 19:07:57.657079:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-4
+2021-12-06 19:08:04.739854:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-6
+2021-12-06 19:08:06.039653:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-6
+2021-12-06 19:08:20.237547:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-6
+2021-12-06 19:08:29.051528:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-12-6
+2021-12-06 19:09:10.117470:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-12-6
+2021-12-06 19:09:23.513694:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-12-6
+2021-12-07 02:20:17.648459:  INFO - program started
+2021-12-07 02:20:26.912061:  INFO - program started
+2021-12-08 02:20:17.799921:  INFO - program started
+2021-12-08 02:20:27.094407:  INFO - program started
+2021-12-09 02:20:17.838627:  INFO - program started
+2021-12-09 02:20:27.139463:  INFO - program started
+2021-12-10 02:20:17.375306:  INFO - program started
+2021-12-10 02:20:23.806192:  INFO - program started
+2021-12-11 02:20:17.238063:  INFO - program started
+2021-12-11 02:20:23.649331:  INFO - program started
+2021-12-12 02:20:17.280630:  INFO - program started
+2021-12-12 02:20:23.730132:  INFO - program started
+2021-12-13 02:20:17.059670:  INFO - program started
+2021-12-13 02:20:23.521700:  INFO - program started
+2021-12-14 02:20:17.446062:  INFO - program started
+2021-12-14 02:20:23.922524:  INFO - program started
+2021-12-15 02:20:17.251492:  INFO - program started
+2021-12-15 02:20:23.765478:  INFO - program started
+2021-12-16 02:20:17.489285:  INFO - program started
+2021-12-16 02:20:24.043629:  INFO - program started
+2021-12-17 02:20:17.767598:  INFO - program started
+2021-12-17 02:20:24.219641:  INFO - program started
+2021-12-18 02:20:17.179612:  INFO - program started
+2021-12-18 02:20:23.710621:  INFO - program started
+2021-12-19 02:20:17.342606:  INFO - program started
+2021-12-19 02:20:23.816658:  INFO - program started
+2021-12-20 02:20:17.648779:  INFO - program started
+2021-12-20 02:20:24.113422:  INFO - program started
+2021-12-21 02:20:17.605925:  INFO - program started
+2021-12-21 02:20:24.132862:  INFO - program started
+2021-12-22 02:20:17.177752:  INFO - program started
+2021-12-22 02:20:23.692186:  INFO - program started
+2021-12-23 02:20:17.715690:  INFO - program started
+2021-12-23 02:20:24.237164:  INFO - program started
+2021-12-24 02:20:17.290290:  INFO - program started
+2021-12-24 02:20:23.837202:  INFO - program started
+2021-12-25 02:20:17.202015:  INFO - program started
+2021-12-25 02:20:23.763986:  INFO - program started
+2021-12-26 02:20:17.071457:  INFO - program started
+2021-12-26 02:20:23.679753:  INFO - program started
+2021-12-27 02:20:17.227281:  INFO - program started
+2021-12-27 02:20:23.793308:  INFO - program started
+2021-12-28 02:20:17.192575:  INFO - program started
+2021-12-28 02:20:23.798440:  INFO - program started
+2021-12-29 02:20:17.153778:  INFO - program started
+2021-12-29 02:20:23.839338:  INFO - program started
+2021-12-30 02:20:17.547684:  INFO - program started
+2021-12-30 02:20:24.149419:  INFO - program started
+2021-12-31 02:20:17.244083:  INFO - program started
+2021-12-31 02:20:23.918306:  INFO - program started
+2022-01-01 02:20:17.963212:  INFO - program started
+2022-01-01 02:20:24.644317:  INFO - program started
+2022-01-02 02:20:17.795039:  INFO - program started
+2022-01-02 02:20:24.449981:  INFO - program started
+2022-01-03 02:20:17.626654:  INFO - program started
+2022-01-03 02:20:27.334097:  INFO - program started
+2022-01-04 02:20:18.756231:  INFO - program started
+2022-01-04 02:20:28.419592:  INFO - program started
+2022-01-05 02:20:16.883429:  INFO - program started
+2022-01-05 02:20:26.577026:  INFO - program started
+2022-01-06 02:20:17.244064:  INFO - program started
+2022-01-06 02:20:27.006020:  INFO - program started
+2022-01-07 02:20:17.805370:  INFO - program started
+2022-01-07 02:20:27.593690:  INFO - program started
+2022-01-08 02:20:17.670215:  INFO - program started
+2022-01-08 02:20:27.492888:  INFO - program started
+2022-01-08 15:09:44.749849:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-8
+2022-01-08 15:09:56.112110:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-8
+2022-01-08 15:10:46.038716:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-1-8
+2022-01-08 15:10:50.528460:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-1-8
+2022-01-08 16:36:35.273102:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-1-8
+2022-01-09 02:20:17.798763:  INFO - program started
+2022-01-09 02:20:27.536265:  INFO - program started
+2022-01-10 02:20:17.124156:  INFO - program started
+2022-01-10 02:20:26.812128:  INFO - program started
+2022-01-11 02:20:16.837348:  INFO - program started
+2022-01-11 02:20:26.649876:  INFO - program started
+2022-01-12 02:20:17.647272:  INFO - program started
+2022-01-12 02:20:27.371748:  INFO - program started
+2022-01-12 19:31:11.989016:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-12
+2022-01-12 19:31:26.829956:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-12
+2022-01-13 02:20:17.003761:  INFO - program started
+2022-01-13 02:20:26.897322:  INFO - program started
+2022-01-14 02:20:17.573461:  INFO - program started
+2022-01-14 02:20:27.401360:  INFO - program started
+2022-01-15 02:20:16.884549:  INFO - program started
+2022-01-15 02:20:25.943260:  INFO - program started
+2022-01-16 02:20:17.471964:  INFO - program started
+2022-01-16 02:20:27.179045:  INFO - program started
+2022-01-17 02:20:17.272714:  INFO - program started
+2022-01-17 02:20:27.144331:  INFO - program started
+2022-01-17 11:08:42.742847:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-17
+2022-01-17 11:08:56.422713:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-17
+2022-01-17 11:12:40.165382:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-17
+2022-01-17 11:12:47.013544:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-17
+2022-01-17 12:12:57.674605:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-17
+2022-01-17 12:13:02.017729:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-17
+2022-01-18 02:20:17.850429:  INFO - program started
+2022-01-18 02:20:27.765077:  INFO - program started
+2022-01-19 02:20:17.340200:  INFO - program started
+2022-01-19 02:20:23.895231:  INFO - program started
+2022-01-20 02:20:16.925712:  INFO - program started
+2022-01-20 02:20:23.451793:  INFO - program started
+2022-01-21 02:20:17.348110:  INFO - program started
+2022-01-21 02:20:23.914270:  INFO - program started
+2022-01-22 02:20:17.966842:  INFO - program started
+2022-01-22 02:20:24.549740:  INFO - program started
+2022-01-23 02:20:17.848658:  INFO - program started
+2022-01-23 02:20:24.411755:  INFO - program started
+2022-01-24 02:20:17.777910:  INFO - program started
+2022-01-24 02:20:24.310572:  INFO - program started
+2022-01-25 02:20:17.152513:  INFO - program started
+2022-01-25 02:20:23.713303:  INFO - program started
+2022-01-26 02:20:17.749886:  INFO - program started
+2022-01-26 02:20:24.440282:  INFO - program started
+2022-01-27 02:20:17.671120:  INFO - program started
+2022-01-27 02:20:24.276892:  INFO - program started
+2022-01-28 02:20:17.280254:  INFO - program started
+2022-01-28 02:20:23.871578:  INFO - program started
+2022-01-29 02:20:17.564986:  INFO - program started
+2022-01-29 02:20:24.189099:  INFO - program started
+2022-01-30 02:20:17.765786:  INFO - program started
+2022-01-30 02:20:24.467159:  INFO - program started
+2022-01-31 02:20:17.653005:  INFO - program started
+2022-01-31 02:20:24.256083:  INFO - program started
+2022-02-01 02:20:17.335132:  INFO - program started
+2022-02-01 02:20:23.951129:  INFO - program started
+2022-02-01 14:25:27.068459:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:25:45.847026:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-1
+2022-02-01 14:25:49.139930:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:25:50.454608:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:26:02.647376:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:26:12.072281:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:26:20.008408:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:26:26.213844:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:26:38.536762:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:26:45.137350:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-2-6
+2022-02-01 14:26:47.712480:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:26:50.422931:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:27:00.805069:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:27:22.383544:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:27:26.160699:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:27:31.597479:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:27:33.594277:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-6
+2022-02-01 14:27:39.341368:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-19
+2022-02-01 14:27:41.218597:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-19
+2022-02-01 14:27:57.241304:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-19
+2022-02-01 14:29:55.025596:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-19
+2022-02-01 14:30:05.111924:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-19
+2022-02-01 14:54:57.836527:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-19
+2022-02-01 14:55:07.998382:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-19
+2022-02-01 14:55:11.844564:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:55:12.591006:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:55:21.173494:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:55:38.090655:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-1
+2022-02-01 14:55:45.695568:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-30
+2022-02-01 14:55:49.330240:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-1-30
+2022-02-01 14:56:14.998390:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:56:18.643572:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:56:22.692218:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:56:42.115735:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:57:38.500728:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:57:49.796653:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 14:58:02.543105:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 15:22:06.180338:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 15:22:13.451021:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 15:36:59.037397:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 16:13:09.153464:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-01 16:13:17.517485:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-1
+2022-02-02 02:20:17.754897:  INFO - program started
+2022-02-02 02:20:27.853604:  INFO - program started
+2022-02-03 02:20:17.167322:  INFO - program started
+2022-02-03 02:20:27.361744:  INFO - program started
+2022-02-04 02:20:17.374911:  INFO - program started
+2022-02-04 02:20:26.876585:  INFO - program started
+2022-02-05 02:20:17.540857:  INFO - program started
+2022-02-05 02:20:25.688677:  INFO - program started
+2022-02-06 02:20:17.210069:  INFO - program started
+2022-02-06 02:20:27.387139:  INFO - program started
+2022-02-06 23:44:35.851467:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-6
+2022-02-06 23:44:56.390173:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-5
+2022-02-06 23:44:59.994457:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-5
+2022-02-06 23:45:05.094070:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-5
+2022-02-06 23:45:12.343468:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-4
+2022-02-06 23:45:15.980749:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-3
+2022-02-06 23:45:16.245735:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-3
+2022-02-06 23:45:38.921536:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-3
+2022-02-06 23:45:49.524741:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-2-3
+2022-02-06 23:45:53.390578:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-5-3
+2022-02-06 23:45:53.599931:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-5-3
+2022-02-06 23:46:32.055783:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-6-3
+2022-02-06 23:46:35.612667:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-6-3
+2022-02-06 23:47:46.333105:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-6-3
+2022-02-06 23:47:54.615003:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-6-3
+2022-02-06 23:47:57.099432:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-1-3
+2022-02-06 23:47:58.123896:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-1-3
+2022-02-06 23:48:20.619753:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-1-3
+2022-02-06 23:48:28.131164:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-2-3
+2022-02-06 23:48:30.220812:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-2-4
+2022-02-06 23:48:31.415807:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-2-4
+2022-02-06 23:48:51.364753:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-6-3
+2022-02-06 23:49:08.985738:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-6-3
+2022-02-06 23:49:14.048017:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-3
+2022-02-06 23:49:17.671105:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-3
+2022-02-06 23:49:18.098300:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-3
+2022-02-06 23:49:29.952655:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-3
+2022-02-06 23:49:40.512052:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-6
+2022-02-06 23:49:44.147311:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-6
+2022-02-06 23:49:54.634801:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-6-3
+2022-02-06 23:50:04.461979:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-12-3
+2022-02-06 23:50:08.040115:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-12-3
+2022-02-06 23:50:56.157336:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-12-3
+2022-02-06 23:51:15.168911:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-12-3
+2022-02-06 23:58:13.491593:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-12-3
+2022-02-07 02:20:17.760519:  INFO - program started
+2022-02-07 02:20:27.924336:  INFO - program started
+2022-02-08 02:20:17.097642:  INFO - program started
+2022-02-08 02:20:27.278669:  INFO - program started
+2022-02-09 02:20:17.682868:  INFO - program started
+2022-02-09 02:20:27.906060:  INFO - program started
+2022-02-10 02:20:17.337281:  INFO - program started
+2022-02-10 02:20:27.558705:  INFO - program started
+2022-02-11 02:20:17.535794:  INFO - program started
+2022-02-11 02:20:27.885479:  INFO - program started
+2022-02-12 02:20:17.681734:  INFO - program started
+2022-02-12 02:20:27.968994:  INFO - program started
+2022-02-13 02:20:17.285956:  INFO - program started
+2022-02-13 02:20:27.500770:  INFO - program started
+2022-02-13 14:02:03.997383:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-13
+2022-02-13 14:02:13.965837:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-13
+2022-02-14 02:20:17.638866:  INFO - program started
+2022-02-14 02:20:27.873227:  INFO - program started
+2022-02-15 02:20:17.287192:  INFO - program started
+2022-02-15 02:20:27.495999:  INFO - program started
+2022-02-16 02:20:17.352578:  INFO - program started
+2022-02-16 02:20:27.675054:  INFO - program started
+2022-02-17 02:20:17.005383:  INFO - program started
+2022-02-17 02:20:25.217144:  INFO - program started
+2022-02-18 02:20:17.403751:  INFO - program started
+2022-02-18 02:20:27.673803:  INFO - program started
+2022-02-19 02:20:17.368162:  INFO - program started
+2022-02-19 02:20:27.636482:  INFO - program started
+2022-02-20 00:31:37.409843:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-19
+2022-02-20 00:31:47.053543:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-19
+2022-02-20 00:32:07.351622:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-18
+2022-02-20 00:32:10.982009:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-18
+2022-02-20 00:36:46.007590:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-2-18
+2022-02-20 00:36:49.660826:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-2-18
+2022-02-20 02:20:17.180889:  INFO - program started
+2022-02-20 02:20:27.478019:  INFO - program started
+2022-02-21 02:20:17.309114:  INFO - program started
+2022-02-21 02:20:27.514198:  INFO - program started
+2022-02-22 02:20:17.249244:  INFO - program started
+2022-02-22 02:20:25.511375:  INFO - program started
+2022-02-22 18:25:29.236204:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-22
+2022-02-22 18:26:32.058170:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-22
+2022-02-22 18:27:28.736065:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-2-22
+2022-02-23 02:20:16.913328:  INFO - program started
+2022-02-23 02:20:27.241128:  INFO - program started
+2022-02-24 02:20:17.099142:  INFO - program started
+2022-02-24 02:20:27.555517:  INFO - program started
+2022-02-25 02:20:16.922439:  INFO - program started
+2022-02-25 02:20:27.342340:  INFO - program started
+2022-02-26 02:20:17.085701:  INFO - program started
+2022-02-26 02:20:27.519828:  INFO - program started
+2022-02-27 02:20:16.865546:  INFO - program started
+2022-02-27 02:20:27.275734:  INFO - program started
+2022-02-28 02:20:16.986511:  INFO - program started
+2022-02-28 02:20:27.319480:  INFO - program started
+2022-03-01 02:20:17.757196:  INFO - program started
+2022-03-01 02:20:28.224086:  INFO - program started
+2022-03-02 02:20:17.641150:  INFO - program started
+2022-03-02 02:20:28.059424:  INFO - program started
+2022-03-03 02:20:16.975692:  INFO - program started
+2022-03-03 02:20:27.429405:  INFO - program started
+2022-03-04 02:20:16.997528:  INFO - program started
+2022-03-04 02:20:27.460082:  INFO - program started
+2022-03-05 02:20:17.276854:  INFO - program started
+2022-03-05 02:20:27.786656:  INFO - program started
+2022-03-06 02:20:17.295645:  INFO - program started
+2022-03-06 02:20:27.781785:  INFO - program started
+2022-03-07 02:20:17.317475:  INFO - program started
+2022-03-07 02:20:27.836223:  INFO - program started
+2022-03-07 10:47:59.574516:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-7
+2022-03-07 10:48:15.544056:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-7
+2022-03-07 11:09:50.242017:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-7
+2022-03-07 11:09:58.418880:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-7
+2022-03-07 18:10:20.600737:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-7
+2022-03-07 18:10:33.950360:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-7
+2022-03-08 02:20:17.374565:  INFO - program started
+2022-03-08 02:20:27.920582:  INFO - program started
+2022-03-09 02:20:17.417576:  INFO - program started
+2022-03-09 02:20:29.313870:  INFO - program started
+2022-03-10 02:20:17.356745:  INFO - program started
+2022-03-10 02:20:28.031830:  INFO - program started
+2022-03-11 02:20:17.859872:  INFO - program started
+2022-03-11 02:20:28.439100:  INFO - program started
+2022-03-12 02:20:16.879543:  INFO - program started
+2022-03-12 02:20:27.544392:  INFO - program started
+2022-03-13 02:20:17.875240:  INFO - program started
+2022-03-13 02:20:28.501165:  INFO - program started
+2022-03-14 02:20:17.441087:  INFO - program started
+2022-03-14 02:20:28.072724:  INFO - program started
+2022-03-14 23:54:06.072006:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-14
+2022-03-14 23:54:18.835826:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-14
+2022-03-14 23:56:02.249887:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-3-14
+2022-03-15 02:20:16.791481:  INFO - program started
+2022-03-15 02:20:27.474285:  INFO - program started
+2022-03-16 02:20:16.900349:  INFO - program started
+2022-03-16 02:20:27.664504:  INFO - program started
+2022-03-17 02:20:17.060063:  INFO - program started
+2022-03-17 02:20:27.690279:  INFO - program started
+2022-03-18 02:20:17.580873:  INFO - program started
+2022-03-18 02:20:28.305070:  INFO - program started
+2022-03-19 02:20:16.974090:  INFO - program started
+2022-03-19 02:20:27.735267:  INFO - program started
+2022-03-19 14:29:33.939858:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-19
+2022-03-19 14:29:50.343002:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-19
+2022-03-19 15:48:15.564033:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-19
+2022-03-19 15:48:28.017225:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-19
+2022-03-20 02:20:16.969588:  INFO - program started
+2022-03-20 02:20:27.814915:  INFO - program started
+2022-03-21 02:20:17.144545:  INFO - program started
+2022-03-21 02:20:27.907157:  INFO - program started
+2022-03-22 02:20:17.610416:  INFO - program started
+2022-03-22 02:20:28.406853:  INFO - program started
+2022-03-22 10:02:15.421024:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-22
+2022-03-22 10:02:26.198079:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-22
+2022-03-22 11:28:44.961022:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-22
+2022-03-22 11:28:56.645259:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-22
+2022-03-22 11:51:34.206284:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-22
+2022-03-23 02:20:17.339670:  INFO - program started
+2022-03-23 02:20:28.070322:  INFO - program started
+2022-03-23 16:20:58.537438:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-23
+2022-03-23 16:21:20.418015:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-23
+2022-03-24 02:20:16.964593:  INFO - program started
+2022-03-24 02:20:27.805436:  INFO - program started
+2022-03-25 02:20:17.137188:  INFO - program started
+2022-03-25 02:20:27.977086:  INFO - program started
+2022-03-26 02:20:17.440855:  INFO - program started
+2022-03-26 02:20:28.232623:  INFO - program started
+2022-03-28 02:20:17.410046:  INFO - program started
+2022-03-28 02:20:28.231695:  INFO - program started
+2022-03-29 02:20:17.528137:  INFO - program started
+2022-03-29 02:20:28.289430:  INFO - program started
+2022-03-30 02:20:17.633632:  INFO - program started
+2022-03-30 02:20:28.371706:  INFO - program started
+2022-03-31 02:20:17.202109:  INFO - program started
+2022-03-31 02:20:28.063814:  INFO - program started
+2022-03-31 16:32:39.137844:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-31
+2022-03-31 16:32:48.863136:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-31
+2022-03-31 17:12:41.191693:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-31
+2022-03-31 17:12:52.486913:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-3-31
+2022-04-01 02:20:17.699763:  INFO - program started
+2022-04-01 02:20:28.483339:  INFO - program started
+2022-04-02 02:20:16.867452:  INFO - program started
+2022-04-02 02:20:27.774102:  INFO - program started
+2022-04-03 02:20:16.969249:  INFO - program started
+2022-04-03 02:20:27.812506:  INFO - program started
+2022-04-04 02:20:16.908532:  INFO - program started
+2022-04-04 02:20:27.850246:  INFO - program started
+2022-04-05 02:20:17.241962:  INFO - program started
+2022-04-05 02:20:28.103554:  INFO - program started
+2022-04-05 18:20:47.895118:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-5
+2022-04-05 18:21:04.573466:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-5
+2022-04-05 22:47:16.034788:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-5
+2022-04-05 22:47:34.609286:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-5
+2022-04-05 22:47:51.665136:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-4-5
+2022-04-05 22:47:55.613939:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-4-5
+2022-04-05 22:48:26.339059:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2021-4-5
+2022-04-05 22:48:35.808364:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-5
+2022-04-05 22:48:37.478622:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-5
+2022-04-05 22:48:52.577033:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-4
+2022-04-05 22:48:54.694365:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-4
+2022-04-05 22:49:18.593609:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-5
+2022-04-05 22:49:21.793014:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-5
+2022-04-06 02:20:17.661335:  INFO - program started
+2022-04-06 02:20:28.525943:  INFO - program started
+2022-04-07 02:20:17.009061:  INFO - program started
+2022-04-07 02:20:27.875108:  INFO - program started
+2022-04-07 22:56:29.553444:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-7
+2022-04-07 22:57:10.743782:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-7
+2022-04-08 02:20:17.224342:  INFO - program started
+2022-04-08 02:20:28.210825:  INFO - program started
+2022-04-09 02:20:18.062814:  INFO - program started
+2022-04-09 02:20:29.043533:  INFO - program started
+2022-04-10 02:20:17.663065:  INFO - program started
+2022-04-10 02:20:28.677622:  INFO - program started
+2022-04-11 02:20:17.194488:  INFO - program started
+2022-04-11 02:20:28.140984:  INFO - program started
+2022-04-11 16:35:28.824555:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-11
+2022-04-11 16:35:49.445448:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-11
+2022-04-12 02:20:17.147633:  INFO - program started
+2022-04-12 02:20:28.111177:  INFO - program started
+2022-04-13 02:20:17.318940:  INFO - program started
+2022-04-13 02:20:28.381630:  INFO - program started
+2022-04-14 02:20:16.998886:  INFO - program started
+2022-04-14 02:20:28.081386:  INFO - program started
+2022-04-15 02:20:17.454575:  INFO - program started
+2022-04-15 02:20:28.608324:  INFO - program started
+2022-04-16 02:20:17.891661:  INFO - program started
+2022-04-16 02:20:28.962948:  INFO - program started
+2022-04-17 02:20:16.941450:  INFO - program started
+2022-04-17 02:20:28.121788:  INFO - program started
+2022-04-18 02:20:17.304799:  INFO - program started
+2022-04-18 02:20:28.438645:  INFO - program started
+2022-04-18 14:53:48.469361:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-18
+2022-04-18 14:54:00.408373:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-18
+2022-04-18 15:05:32.353468:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-18
+2022-04-18 15:06:04.077089:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-18
+2022-04-19 02:20:17.046725:  INFO - program started
+2022-04-19 02:20:28.270577:  INFO - program started
+2022-04-20 02:20:17.799926:  INFO - program started
+2022-04-20 02:20:29.002299:  INFO - program started
+2022-04-20 18:51:04.746748:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-20
+2022-04-20 18:51:24.914394:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-4-20
+2022-04-21 02:20:16.965602:  INFO - program started
+2022-04-21 02:20:28.060393:  INFO - program started
+2022-04-22 02:20:17.764881:  INFO - program started
+2022-04-22 02:20:29.069561:  INFO - program started
+2022-04-23 02:20:17.188726:  INFO - program started
+2022-04-23 02:20:28.338331:  INFO - program started
+2022-04-24 02:20:16.888983:  INFO - program started
+2022-04-24 02:20:28.181501:  INFO - program started
+2022-04-25 02:20:16.971728:  INFO - program started
+2022-04-25 02:20:28.228244:  INFO - program started
+2022-04-26 02:20:17.664127:  INFO - program started
+2022-04-26 02:20:28.908618:  INFO - program started
+2022-04-27 02:20:17.964423:  INFO - program started
+2022-04-27 02:20:29.207567:  INFO - program started
+2022-04-28 02:20:17.070384:  INFO - program started
+2022-04-28 02:20:28.274611:  INFO - program started
+2022-04-29 02:20:17.039228:  INFO - program started
+2022-04-29 02:20:28.250415:  INFO - program started
+2022-04-30 02:20:17.400890:  INFO - program started
+2022-04-30 02:20:28.692992:  INFO - program started
+2022-05-01 02:20:17.838158:  INFO - program started
+2022-05-01 02:20:29.122391:  INFO - program started
+2022-05-02 00:11:19.947223:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-1
+2022-05-02 00:11:35.731689:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-1
+2022-05-02 00:12:27.525636:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-5-1
+2022-05-02 00:12:51.423124:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-1
+2022-05-02 00:12:56.021824:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-30
+2022-05-02 00:12:59.828912:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-4-30
+2022-05-02 02:20:17.172972:  INFO - program started
+2022-05-02 02:20:28.446256:  INFO - program started
+2022-05-03 02:20:17.034928:  INFO - program started
+2022-05-03 02:20:28.289325:  INFO - program started
+2022-05-04 02:20:17.094013:  INFO - program started
+2022-05-04 02:20:28.532076:  INFO - program started
+2022-05-05 02:20:16.921820:  INFO - program started
+2022-05-05 02:20:28.294046:  INFO - program started
+2022-05-06 02:20:17.758973:  INFO - program started
+2022-05-06 02:20:29.078485:  INFO - program started
+2022-05-07 02:20:17.037643:  INFO - program started
+2022-05-07 02:20:28.376357:  INFO - program started
+2022-05-08 02:20:17.347472:  INFO - program started
+2022-05-08 02:20:28.780976:  INFO - program started
+2022-05-09 02:20:17.166160:  INFO - program started
+2022-05-09 02:20:28.588368:  INFO - program started
+2022-05-10 02:20:17.349805:  INFO - program started
+2022-05-10 02:20:28.768516:  INFO - program started
+2022-05-10 19:47:59.106168:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-10
+2022-05-10 19:48:19.766048:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-9
+2022-05-10 19:48:24.849029:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-9
+2022-05-10 19:48:56.204289:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-8
+2022-05-10 19:49:00.567292:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-8
+2022-05-10 19:49:18.733746:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-5-8
+2022-05-11 02:20:17.739636:  INFO - program started
+2022-05-11 02:20:29.244434:  INFO - program started
+2022-05-11 12:02:45.333728:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-11
+2022-05-11 12:03:07.727670:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-11
+2022-05-11 12:04:27.672134:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-5-11
+2022-05-11 12:04:31.798538:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2021-5-11
+2022-05-12 02:20:17.253463:  INFO - program started
+2022-05-12 02:20:28.781968:  INFO - program started
+2022-05-13 02:20:17.177650:  INFO - program started
+2022-05-13 02:20:28.585025:  INFO - program started
+2022-05-14 02:20:16.900013:  INFO - program started
+2022-05-14 02:20:28.357843:  INFO - program started
+2022-05-14 13:09:56.399437:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-14
+2022-05-14 13:10:14.483563:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-14
+2022-05-15 02:20:17.512253:  INFO - program started
+2022-05-15 02:20:28.959673:  INFO - program started
+2022-05-16 02:20:17.185700:  INFO - program started
+2022-05-16 02:20:28.735623:  INFO - program started
+2022-05-17 02:20:17.787907:  INFO - program started
+2022-05-17 02:20:29.353029:  INFO - program started
+2022-05-18 02:20:17.798780:  INFO - program started
+2022-05-18 02:20:29.301680:  INFO - program started
+2022-05-19 02:20:16.936117:  INFO - program started
+2022-05-19 02:20:28.521280:  INFO - program started
+2022-05-19 11:50:09.193862:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-19
+2022-05-19 11:50:41.849723:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-19
+2022-05-19 11:50:55.735283:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-19
+2022-05-19 11:51:00.422612:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-19
+2022-05-20 02:20:17.416418:  INFO - program started
+2022-05-20 02:20:28.927031:  INFO - program started
+2022-05-21 02:20:17.654050:  INFO - program started
+2022-05-21 02:20:29.496613:  INFO - program started
+2022-05-22 02:20:17.224544:  INFO - program started
+2022-05-22 02:20:28.885045:  INFO - program started
+2022-05-23 02:20:17.194875:  INFO - program started
+2022-05-23 02:20:28.890143:  INFO - program started
+2022-05-24 02:20:17.145046:  INFO - program started
+2022-05-24 02:20:28.791358:  INFO - program started
+2022-05-25 02:20:17.210856:  INFO - program started
+2022-05-25 02:20:28.843813:  INFO - program started
+2022-05-26 02:20:17.788529:  INFO - program started
+2022-05-26 02:20:29.472058:  INFO - program started
+2022-05-27 02:20:17.241056:  INFO - program started
+2022-05-27 02:20:28.981301:  INFO - program started
+2022-05-28 02:20:16.948328:  INFO - program started
+2022-05-28 02:20:28.653517:  INFO - program started
+2022-05-29 02:20:17.554783:  INFO - program started
+2022-05-29 02:20:29.240025:  INFO - program started
+2022-05-30 02:20:17.461587:  INFO - program started
+2022-05-30 02:20:29.115561:  INFO - program started
+2022-05-31 02:20:16.905520:  INFO - program started
+2022-05-31 02:20:28.663938:  INFO - program started
+2022-06-01 02:20:16.865838:  INFO - program started
+2022-06-01 02:20:28.549030:  INFO - program started
+2022-06-02 02:20:17.148380:  INFO - program started
+2022-06-02 02:20:28.909532:  INFO - program started
+2022-06-03 02:20:17.732940:  INFO - program started
+2022-06-03 02:20:29.618726:  INFO - program started
+2022-06-04 02:20:17.571933:  INFO - program started
+2022-06-04 02:20:29.394483:  INFO - program started
+2022-06-05 02:20:17.798899:  INFO - program started
+2022-06-05 02:20:29.540526:  INFO - program started
+2022-06-06 02:20:17.600563:  INFO - program started
+2022-06-06 02:20:29.405930:  INFO - program started
+2022-06-07 02:20:17.768784:  INFO - program started
+2022-06-07 02:20:29.557364:  INFO - program started
+2022-06-08 02:20:17.737429:  INFO - program started
+2022-06-08 02:20:29.615377:  INFO - program started
+2022-06-09 02:20:16.889905:  INFO - program started
+2022-06-09 02:20:28.901654:  INFO - program started
+2022-06-10 02:20:17.301428:  INFO - program started
+2022-06-10 02:20:29.297799:  INFO - program started
+2022-06-11 02:20:17.592982:  INFO - program started
+2022-06-11 02:20:29.623028:  INFO - program started
+2022-06-12 02:20:17.696127:  INFO - program started
+2022-06-12 02:20:29.754529:  INFO - program started
+2022-06-13 02:20:17.594230:  INFO - program started
+2022-06-13 02:20:29.522315:  INFO - program started
+2022-06-14 02:20:17.154208:  INFO - program started
+2022-06-14 02:20:29.003530:  INFO - program started
+2022-06-15 02:20:17.389002:  INFO - program started
+2022-06-15 02:20:29.424018:  INFO - program started
+2022-06-16 02:20:17.366939:  INFO - program started
+2022-06-16 02:20:29.304560:  INFO - program started
+2022-06-16 21:59:26.940417:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 21:59:39.050801:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 21:59:43.288863:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 21:59:47.787423:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 21:59:48.704207:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-10
+2022-06-16 21:59:52.810706:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-10
+2022-06-16 22:00:17.241307:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-10
+2022-06-16 22:00:21.815799:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-10
+2022-06-16 22:00:33.038631:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-30
+2022-06-16 22:00:37.255486:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-5-30
+2022-06-16 22:00:48.399062:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-30
+2022-06-16 22:00:53.006488:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-4
+2022-06-16 22:00:57.215849:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-4
+2022-06-16 22:01:10.457153:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-4
+2022-06-16 22:01:26.802008:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-10
+2022-06-16 22:01:31.008300:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-10
+2022-06-16 22:01:40.856392:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:01:45.110810:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:01:55.853077:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:44:02.981044:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:44:26.368222:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:44:43.152093:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-12
+2022-06-16 22:44:47.362925:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-12
+2022-06-16 22:49:35.461271:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:50:01.685312:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:56:58.958109:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:57:06.606642:  INFO_DUST - dust data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:57:09.969293:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 22:57:31.009782:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 22:57:35.299107:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 22:57:42.616139:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 22:57:56.996456:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 22:58:01.282289:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 22:58:05.825434:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 22:58:52.354802:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 22:59:09.439585:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-13
+2022-06-16 22:59:13.970016:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-13
+2022-06-16 23:00:08.138695:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-13
+2022-06-16 23:08:50.474464:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-13
+2022-06-16 23:09:42.566795:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-12
+2022-06-16 23:09:46.872492:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-12
+2022-06-16 23:09:55.195692:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-12
+2022-06-16 23:15:51.921942:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-16 23:16:09.776058:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 23:16:13.966828:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 23:16:22.709235:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 23:16:27.227914:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-16
+2022-06-16 23:16:31.547154:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 23:16:31.548135:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 23:16:40.389945:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-15
+2022-06-16 23:16:54.600027:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-9
+2022-06-17 02:20:17.777303:  INFO - program started
+2022-06-17 02:20:29.607556:  INFO - program started
+2022-06-18 02:20:17.116417:  INFO - program started
+2022-06-18 02:20:29.128386:  INFO - program started
+2022-06-19 02:20:16.909093:  INFO - program started
+2022-06-19 02:20:28.869128:  INFO - program started
+2022-06-20 02:20:17.410439:  INFO - program started
+2022-06-20 02:20:29.371238:  INFO - program started
+2022-06-21 02:20:16.837751:  INFO - program started
+2022-06-21 02:20:28.857901:  INFO - program started
+2022-06-22 02:20:17.372617:  INFO - program started
+2022-06-22 02:20:29.441275:  INFO - program started
+2022-06-22 11:51:47.346051:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-22
+2022-06-22 11:51:59.356375:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-22
+2022-06-22 11:52:38.160333:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-22
+2022-06-22 16:15:04.355627:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-22
+2022-06-22 16:15:15.188468:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-22
+2022-06-22 16:15:50.879906:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-22
+2022-06-23 02:20:16.865969:  INFO - program started
+2022-06-23 02:20:29.040312:  INFO - program started
+2022-06-24 02:20:17.379401:  INFO - program started
+2022-06-24 02:20:29.268564:  INFO - program started
+2022-06-25 02:20:16.896963:  INFO - program started
+2022-06-25 02:20:28.802560:  INFO - program started
+2022-06-26 02:20:17.714209:  INFO - program started
+2022-06-26 02:20:29.762070:  INFO - program started
+2022-06-27 02:20:17.567399:  INFO - program started
+2022-06-27 02:20:29.599342:  INFO - program started
+2022-06-28 02:20:17.253448:  INFO - program started
+2022-06-28 02:20:29.288282:  INFO - program started
+2022-06-29 02:20:17.149517:  INFO - program started
+2022-06-29 02:20:30.698459:  INFO - program started
+2022-06-30 02:20:17.408242:  INFO - program started
+2022-06-30 02:20:29.539913:  INFO - program started
+2022-07-01 02:20:17.428700:  INFO - program started
+2022-07-01 02:20:29.474245:  INFO - program started
+2022-07-02 02:20:17.767474:  INFO - program started
+2022-07-02 02:20:29.812979:  INFO - program started
+2022-07-02 19:09:46.360614:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-2
+2022-07-02 19:10:04.189767:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-2
+2022-07-02 20:14:18.901711:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-2
+2022-07-02 20:14:26.968269:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-2
+2022-07-02 20:14:38.179499:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-2
+2022-07-03 02:20:17.675781:  INFO - program started
+2022-07-03 02:20:29.822429:  INFO - program started
+2022-07-04 02:20:17.421723:  INFO - program started
+2022-07-04 02:20:29.639453:  INFO - program started
+2022-07-05 02:20:17.652094:  INFO - program started
+2022-07-05 02:20:29.825028:  INFO - program started
+2022-07-06 02:20:17.725409:  INFO - program started
+2022-07-06 02:20:29.995974:  INFO - program started
+2022-07-07 02:20:16.938749:  INFO - program started
+2022-07-07 02:20:28.997090:  INFO - program started
+2022-07-08 02:20:17.601411:  INFO - program started
+2022-07-08 02:20:29.904588:  INFO - program started
+2022-07-09 02:20:17.421606:  INFO - program started
+2022-07-09 02:20:29.577357:  INFO - program started
+2022-07-10 02:20:17.533757:  INFO - program started
+2022-07-10 02:20:29.713832:  INFO - program started
+2022-07-11 02:20:17.288160:  INFO - program started
+2022-07-11 02:20:29.598501:  INFO - program started
+2022-07-12 02:20:17.103538:  INFO - program started
+2022-07-12 02:20:29.342090:  INFO - program started
+2022-07-13 02:20:16.824693:  INFO - program started
+2022-07-13 02:20:28.972488:  INFO - program started
+2022-07-14 02:20:17.012689:  INFO - program started
+2022-07-14 02:20:29.292129:  INFO - program started
+2022-07-15 02:20:17.612730:  INFO - program started
+2022-07-16 02:20:17.037979:  INFO - program started
+2022-07-16 02:20:29.343607:  INFO - program started
+2022-07-17 02:20:17.817698:  INFO - program started
+2022-07-17 02:20:30.068052:  INFO - program started
+2022-07-18 02:20:16.942941:  INFO - program started
+2022-07-18 02:20:29.164117:  INFO - program started
+2022-07-19 02:20:17.001290:  INFO - program started
+2022-07-19 02:20:29.290674:  INFO - program started
+2022-07-19 07:54:13.950752:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-19
+2022-07-19 07:58:36.623783:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-18
+2022-07-19 07:58:41.026991:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-18
+2022-07-19 07:59:12.267140:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-18
+2022-07-19 08:02:35.126369:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-16
+2022-07-19 08:02:39.797578:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-16
+2022-07-20 02:20:17.465634:  INFO - program started
+2022-07-20 02:20:29.849948:  INFO - program started
+2022-07-20 19:23:52.332545:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-20 19:24:02.976293:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-20 19:54:06.897830:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-20 19:54:14.788334:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-21 02:20:17.274740:  INFO - program started
+2022-07-21 02:20:29.585265:  INFO - program started
+2022-07-21 15:40:53.816918:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-21
+2022-07-21 15:41:00.621482:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-21
+2022-07-21 15:41:57.231121:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-21 15:42:01.607531:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-21 20:45:42.734636:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-22 02:20:17.254917:  INFO - program started
+2022-07-22 02:20:29.727744:  INFO - program started
+2022-07-23 02:20:17.466702:  INFO - program started
+2022-07-23 02:20:29.929805:  INFO - program started
+2022-07-24 02:20:17.204881:  INFO - program started
+2022-07-24 02:20:29.614828:  INFO - program started
+2022-07-25 02:20:17.564048:  INFO - program started
+2022-07-25 02:20:29.959102:  INFO - program started
+2022-07-26 02:20:17.277917:  INFO - program started
+2022-07-26 02:20:29.871335:  INFO - program started
+2022-07-27 02:20:16.996530:  INFO - program started
+2022-07-27 02:20:29.421194:  INFO - program started
+2022-07-28 02:20:17.402595:  INFO - program started
+2022-07-28 02:20:29.775574:  INFO - program started
+2022-07-29 02:20:17.525485:  INFO - program started
+2022-07-29 02:20:30.017560:  INFO - program started
+2022-07-29 12:48:25.599845:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-29
+2022-07-29 12:48:31.731264:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-29
+2022-07-29 12:48:40.766356:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-25
+2022-07-29 12:48:45.393840:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-25
+2022-07-29 12:48:58.767621:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-25
+2022-07-29 12:49:03.547762:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-29 12:49:07.942416:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-7-20
+2022-07-30 02:20:17.445939:  INFO - program started
+2022-07-30 02:20:29.830508:  INFO - program started
+2022-07-31 02:20:17.291917:  INFO - program started
+2022-07-31 02:20:27.779363:  INFO - program started
+2022-08-01 02:20:18.030273:  INFO - program started
+2022-08-01 02:20:28.303844:  INFO - program started
+2022-08-02 02:20:17.406818:  INFO - program started
+2022-08-02 02:20:27.680918:  INFO - program started
+2022-08-03 02:20:17.079597:  INFO - program started
+2022-08-03 02:20:27.524598:  INFO - program started
+2022-08-04 02:20:16.950174:  INFO - program started
+2022-08-04 02:20:27.316912:  INFO - program started
+2022-08-05 02:20:17.855887:  INFO - program started
+2022-08-05 02:20:28.257600:  INFO - program started
+2022-08-06 02:20:17.265076:  INFO - program started
+2022-08-06 02:20:27.593734:  INFO - program started
+2022-08-07 02:20:17.582595:  INFO - program started
+2022-08-07 02:20:27.977643:  INFO - program started
+2022-08-08 02:20:17.510010:  INFO - program started
+2022-08-08 02:20:27.798897:  INFO - program started
+2022-08-09 02:20:17.787682:  INFO - program started
+2022-08-09 02:20:28.087710:  INFO - program started
+2022-08-10 02:20:17.698790:  INFO - program started
+2022-08-10 02:20:28.053511:  INFO - program started
+2022-08-11 02:20:17.574205:  INFO - program started
+2022-08-11 02:20:27.943365:  INFO - program started
+2022-08-12 02:20:17.717306:  INFO - program started
+2022-08-12 02:20:27.992903:  INFO - program started
+2022-08-13 02:20:17.655390:  INFO - program started
+2022-08-13 02:20:25.825154:  INFO - program started
+2022-08-14 02:20:17.518921:  INFO - program started
+2022-08-14 02:20:25.717959:  INFO - program started
+2022-08-15 02:20:17.123023:  INFO - program started
+2022-08-15 02:20:25.273133:  INFO - program started
+2022-08-16 02:20:17.200089:  INFO - program started
+2022-08-16 02:20:25.388028:  INFO - program started
+2022-08-16 11:59:56.057055:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-16
+2022-08-16 12:00:08.657299:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-11
+2022-08-16 12:00:10.173641:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-11
+2022-08-16 12:00:14.597435:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-11
+2022-08-16 22:37:23.258458:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-11
+2022-08-16 22:37:37.604220:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-16
+2022-08-16 22:37:42.046205:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-16
+2022-08-16 22:37:49.329638:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-16
+2022-08-16 22:38:00.237321:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-16
+2022-08-16 22:38:10.211592:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-8-16
+2022-08-17 02:20:17.293581:  INFO - program started
+2022-08-17 02:20:29.785744:  INFO - program started
+2022-08-18 02:20:17.267535:  INFO - program started
+2022-08-18 02:20:29.827177:  INFO - program started
+2022-08-19 02:20:17.350065:  INFO - program started
+2022-08-19 02:20:29.887718:  INFO - program started
+2022-08-20 02:20:17.041363:  INFO - program started
+2022-08-20 02:20:29.510442:  INFO - program started
+2022-08-21 02:20:17.630771:  INFO - program started
+2022-08-21 02:20:30.231573:  INFO - program started
+2022-08-22 02:20:17.375754:  INFO - program started
+2022-08-22 02:20:29.987465:  INFO - program started
+2022-08-23 02:20:17.119621:  INFO - program started
+2022-08-23 02:20:29.552375:  INFO - program started
+2022-08-24 02:20:17.134443:  INFO - program started
+2022-08-24 02:20:29.643161:  INFO - program started
+2022-08-25 02:20:17.775044:  INFO - program started
+2022-08-25 02:20:30.338149:  INFO - program started
+2022-08-26 02:20:17.003030:  INFO - program started
+2022-08-26 02:20:29.527872:  INFO - program started
+2022-08-27 02:20:17.174899:  INFO - program started
+2022-08-27 02:20:29.594678:  INFO - program started
+2022-08-28 02:20:17.422445:  INFO - program started
+2022-08-28 02:20:30.017554:  INFO - program started
+2022-08-29 02:20:16.938566:  INFO - program started
+2022-08-29 02:20:29.482057:  INFO - program started
+2022-08-30 02:20:17.111901:  INFO - program started
+2022-08-30 02:20:30.864070:  INFO - program started
+2022-08-31 02:20:16.976898:  INFO - program started
+2022-08-31 02:20:29.614233:  INFO - program started
+2022-09-01 02:20:17.531610:  INFO - program started
+2022-09-01 02:20:30.073951:  INFO - program started
+2022-09-02 02:20:17.122611:  INFO - program started
+2022-09-02 02:20:29.688293:  INFO - program started
+2022-09-03 02:20:17.799071:  INFO - program started
+2022-09-03 02:20:31.505034:  INFO - program started
+2022-09-04 02:20:17.371810:  INFO - program started
+2022-09-04 02:20:29.955756:  INFO - program started
+2022-09-05 02:20:17.622167:  INFO - program started
+2022-09-05 02:20:30.179265:  INFO - program started
+2022-09-06 02:20:17.192757:  INFO - program started
+2022-09-06 02:20:29.774802:  INFO - program started
+2022-09-06 09:31:08.840317:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-9-6
+2022-09-06 09:31:30.094316:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-6
+2022-09-06 09:31:34.726459:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-6
+2022-09-06 09:32:18.549073:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2022-6-6
+2022-09-07 02:20:17.466904:  INFO - program started
+2022-09-07 02:20:30.009189:  INFO - program started
+2022-09-08 02:20:17.012897:  INFO - program started
+2022-09-08 02:20:29.624207:  INFO - program started
+2022-09-09 02:20:17.487831:  INFO - program started
+2022-09-09 02:20:30.162444:  INFO - program started
+2022-09-10 02:20:17.018299:  INFO - program started
+2022-09-10 02:20:29.608892:  INFO - program started
+2022-09-11 02:20:16.861614:  INFO - program started
+2022-09-11 02:20:29.458120:  INFO - program started
+2022-09-12 02:20:17.097279:  INFO - program started
+2022-09-12 02:20:29.798478:  INFO - program started
+2022-09-13 02:20:17.517537:  INFO - program started
+2022-09-13 02:20:30.296780:  INFO - program started
+2022-09-14 02:20:17.680109:  INFO - program started
+2022-09-14 02:20:30.224435:  INFO - program started
+2022-09-15 02:20:16.948540:  INFO - program started
+2022-09-15 02:20:29.715425:  INFO - program started
+2022-09-16 02:20:17.379397:  INFO - program started
+2022-09-16 02:20:30.123938:  INFO - program started
+2022-09-17 02:20:17.169413:  INFO - program started
+2022-09-17 02:20:29.960515:  INFO - program started
+2022-09-18 02:20:17.626185:  INFO - program started
+2022-09-18 02:20:30.384967:  INFO - program started
+2022-09-19 02:20:17.263458:  INFO - program started
+2022-09-19 02:20:29.940268:  INFO - program started
+2022-09-20 02:20:17.688987:  INFO - program started
+2022-09-20 02:20:30.328313:  INFO - program started
+2022-09-21 02:20:17.693754:  INFO - program started
+2022-09-21 02:20:30.412142:  INFO - program started
+2022-09-22 02:20:17.309230:  INFO - program started
+2022-09-22 02:20:30.023800:  INFO - program started
+2022-09-23 02:20:17.838347:  INFO - program started
+2022-09-23 02:20:30.529115:  INFO - program started
+2022-09-24 02:20:17.277671:  INFO - program started
+2022-09-24 02:20:29.947816:  INFO - program started
+2022-09-25 02:20:17.737013:  INFO - program started
+2022-09-25 02:20:31.396979:  INFO - program started
+2022-09-26 02:20:17.259309:  INFO - program started
+2022-09-26 02:20:29.818930:  INFO - program started
+2022-09-27 02:20:17.145237:  INFO - program started
+2022-09-27 02:20:29.851111:  INFO - program started
+2022-09-28 02:20:17.404091:  INFO - program started
+2022-09-28 02:20:29.985925:  INFO - program started
+2022-09-29 02:20:16.984580:  INFO - program started
+2022-09-29 02:20:29.668473:  INFO - program started
+2022-09-30 02:20:17.875705:  INFO - program started
+2022-09-30 02:20:30.579369:  INFO - program started
+2022-10-01 02:20:17.495113:  INFO - program started
+2022-10-01 02:20:30.335606:  INFO - program started
+2022-10-02 02:20:17.184144:  INFO - program started
+2022-10-02 02:20:29.956554:  INFO - program started
+2022-10-03 02:20:17.063528:  INFO - program started
+2022-10-03 02:20:29.733142:  INFO - program started
+2022-10-04 02:20:17.872546:  INFO - program started
+2022-10-04 02:20:30.561636:  INFO - program started
+2022-10-05 02:20:17.718381:  INFO - program started
+2022-10-05 02:20:30.495314:  INFO - program started
+2022-10-06 02:20:17.104795:  INFO - program started
+2022-10-06 02:20:29.787318:  INFO - program started
+2022-10-07 02:20:17.381885:  INFO - program started
+2022-10-07 02:20:30.050288:  INFO - program started
+2022-10-08 02:20:17.345825:  INFO - program started
+2022-10-08 02:20:30.037073:  INFO - program started
+2022-10-09 02:20:17.279115:  INFO - program started
+2022-10-09 02:20:29.998160:  INFO - program started
+2022-10-10 02:20:17.127364:  INFO - program started
+2022-10-10 02:20:29.880424:  INFO - program started
+2022-10-11 02:20:17.354720:  INFO - program started
+2022-10-11 02:20:30.060659:  INFO - program started
+2022-10-12 02:20:17.202614:  INFO - program started
+2022-10-12 02:20:29.977606:  INFO - program started
+2022-10-13 02:20:17.019132:  INFO - program started
+2022-10-13 02:20:29.746357:  INFO - program started
+2022-10-14 02:20:17.628451:  INFO - program started
+2022-10-14 02:20:30.317970:  INFO - program started
+2022-10-15 02:20:16.963661:  INFO - program started
+2022-10-15 02:20:29.856257:  INFO - program started
+2022-10-16 02:20:17.741404:  INFO - program started
+2022-10-16 02:20:30.493119:  INFO - program started
+2022-10-17 02:20:17.668389:  INFO - program started
+2022-10-17 02:20:30.347193:  INFO - program started
+2022-10-18 02:20:17.324800:  INFO - program started
+2022-10-18 02:20:30.044607:  INFO - program started
+2022-10-19 02:20:17.135754:  INFO - program started
+2022-10-19 02:20:29.936931:  INFO - program started
+2022-10-20 02:20:17.091181:  INFO - program started
+2022-10-20 02:20:29.929072:  INFO - program started
+2022-10-21 02:20:17.611137:  INFO - program started
+2022-10-21 02:20:30.464644:  INFO - program started
+2022-10-22 02:20:16.979085:  INFO - program started
+2022-10-22 02:20:29.744094:  INFO - program started
+2022-10-23 02:20:16.832805:  INFO - program started
+2022-10-23 02:20:29.588441:  INFO - program started
+2022-10-24 02:20:17.129826:  INFO - program started
+2022-10-24 02:20:30.004565:  INFO - program started
+2022-10-25 02:20:17.245790:  INFO - program started
+2022-10-25 02:20:29.990605:  INFO - program started
+2022-10-26 02:20:17.499659:  INFO - program started
+2022-10-26 02:20:30.291197:  INFO - program started
+2022-10-27 02:20:17.767011:  INFO - program started
+2022-10-27 02:20:30.586729:  INFO - program started
+2022-10-28 02:20:17.280875:  INFO - program started
+2022-10-28 02:20:26.799032:  INFO - program started
+2022-10-29 02:20:17.928173:  INFO - program started
+2022-10-30 02:20:17.797617:  INFO - program started
+2022-10-30 02:20:27.271156:  INFO - program started
+2022-10-31 02:20:17.646058:  INFO - program started
+2022-11-01 02:20:17.878391:  INFO - program started
+2022-11-01 02:20:27.464376:  INFO - program started
+2022-11-02 02:20:17.523570:  INFO - program started
+2022-11-02 02:20:30.436680:  INFO - program started
+2022-11-03 02:20:17.825801:  INFO - program started
+2022-11-03 02:20:30.616502:  INFO - program started
+2022-11-04 02:20:17.122553:  INFO - program started
+2022-11-04 02:20:29.937805:  INFO - program started
+2022-11-05 02:20:17.046136:  INFO - program started
+2022-11-05 02:20:29.964270:  INFO - program started
+2022-11-06 02:20:17.395015:  INFO - program started
+2022-11-06 02:20:30.285388:  INFO - program started
+2022-11-07 02:20:17.060673:  INFO - program started
+2022-11-07 02:20:29.897868:  INFO - program started
+2022-11-08 02:20:17.416622:  INFO - program started
+2022-11-08 02:20:30.168773:  INFO - program started
+2022-11-09 02:20:17.883706:  INFO - program started
+2022-11-09 02:20:30.651193:  INFO - program started
+2022-11-10 02:20:17.292950:  INFO - program started
+2022-11-10 02:20:30.246177:  INFO - program started
+2022-11-11 02:20:17.434143:  INFO - program started
+2022-11-11 02:20:30.348709:  INFO - program started
+2022-11-12 02:20:17.225693:  INFO - program started
+2022-11-12 02:20:30.091357:  INFO - program started
+2022-11-13 02:20:17.271572:  INFO - program started
+2022-11-13 02:20:30.182806:  INFO - program started
+2022-11-14 02:20:17.353719:  INFO - program started
+2022-11-14 02:20:30.303409:  INFO - program started
+2022-11-15 02:20:17.399996:  INFO - program started
+2022-11-15 02:20:30.238127:  INFO - program started
+2022-11-16 02:20:17.192792:  INFO - program started
+2022-11-16 02:20:30.128069:  INFO - program started
+2022-11-17 02:20:16.991872:  INFO - program started
+2022-11-17 02:20:29.896833:  INFO - program started
+2022-11-18 02:20:17.685256:  INFO - program started
+2022-11-18 02:20:30.560370:  INFO - program started
+2022-11-19 02:20:16.983458:  INFO - program started
+2022-11-19 02:20:30.030756:  INFO - program started
+2022-11-20 02:20:17.200639:  INFO - program started
+2022-11-20 02:20:30.082876:  INFO - program started
+2022-11-21 02:20:17.074929:  INFO - program started
+2022-11-21 02:20:30.041856:  INFO - program started
+2022-11-22 02:20:17.159342:  INFO - program started
+2022-11-22 02:20:30.055413:  INFO - program started
+2022-11-23 02:20:16.990526:  INFO - program started
+2022-11-23 02:20:29.921096:  INFO - program started
+2022-11-24 02:20:17.087148:  INFO - program started
+2022-11-24 02:20:30.173871:  INFO - program started
+2022-11-25 02:20:17.789100:  INFO - program started
+2022-11-25 02:20:32.540498:  INFO - program started
+2022-11-26 02:20:16.867442:  INFO - program started
+2022-11-26 02:20:29.731256:  INFO - program started
+2022-11-27 02:20:17.292155:  INFO - program started
+2022-11-27 02:20:30.221852:  INFO - program started
+2022-11-28 02:20:17.664229:  INFO - program started
+2022-11-28 02:20:30.600073:  INFO - program started
+2022-11-29 02:20:17.585057:  INFO - program started
+2022-11-29 02:20:30.594699:  INFO - program started
+2022-11-30 02:20:17.676071:  INFO - program started
+2022-11-30 02:20:30.634828:  INFO - program started
+2022-12-01 02:20:17.715237:  INFO - program started
+2022-12-01 02:20:30.678402:  INFO - program started
+2022-12-02 02:20:17.089075:  INFO - program started
+2022-12-02 02:20:26.587552:  INFO - program started
+2022-12-03 02:20:17.950853:  INFO - program started
+2022-12-03 02:20:31.012067:  INFO - program started
+2022-12-04 02:20:16.990404:  INFO - program started
+2022-12-04 02:20:29.899906:  INFO - program started
+2022-12-05 02:20:17.453238:  INFO - program started
+2022-12-05 02:20:30.345166:  INFO - program started
+2022-12-06 02:20:17.576209:  INFO - program started
+2022-12-06 02:20:30.566430:  INFO - program started
+2022-12-07 02:20:17.656235:  INFO - program started
+2022-12-07 02:20:30.665481:  INFO - program started
+2022-12-08 02:20:17.673318:  INFO - program started
+2022-12-08 02:20:30.705673:  INFO - program started
+2022-12-09 02:20:16.958870:  INFO - program started
+2022-12-09 02:20:30.070086:  INFO - program started
+2022-12-10 02:20:17.366077:  INFO - program started
+2022-12-10 02:20:30.367341:  INFO - program started
+2022-12-11 02:20:17.669753:  INFO - program started
+2022-12-11 02:20:30.705747:  INFO - program started
+2022-12-12 02:20:17.202442:  INFO - program started
+2022-12-12 02:20:30.198912:  INFO - program started
+2022-12-13 02:20:17.695041:  INFO - program started
+2022-12-13 02:20:30.636000:  INFO - program started
+2022-12-14 02:20:16.843814:  INFO - program started
+2022-12-14 02:20:29.809592:  INFO - program started
+2022-12-15 02:20:17.468937:  INFO - program started
+2022-12-15 02:20:30.413957:  INFO - program started
+2022-12-16 02:20:17.814149:  INFO - program started
+2022-12-16 02:20:30.774154:  INFO - program started
+2022-12-17 02:20:17.053733:  INFO - program started
+2022-12-17 02:20:30.107606:  INFO - program started
+2022-12-18 02:20:17.653402:  INFO - program started
+2022-12-18 02:20:30.653678:  INFO - program started
+2022-12-19 02:20:17.245573:  INFO - program started
+2022-12-19 02:20:30.225183:  INFO - program started
+2022-12-20 02:20:17.067944:  INFO - program started
+2022-12-20 02:20:31.598040:  INFO - program started
+2022-12-21 02:20:17.386522:  INFO - program started
+2022-12-21 02:20:30.486231:  INFO - program started
+2022-12-22 02:20:17.378057:  INFO - program started
+2022-12-22 02:20:30.453050:  INFO - program started
+2022-12-23 02:20:17.202558:  INFO - program started
+2022-12-23 02:20:30.285241:  INFO - program started
+2022-12-24 02:20:16.886239:  INFO - program started
+2022-12-24 02:20:29.941081:  INFO - program started
+2022-12-25 02:20:16.955792:  INFO - program started
+2022-12-25 02:20:30.071394:  INFO - program started
+2022-12-26 02:20:17.345232:  INFO - program started
+2022-12-26 02:20:30.326474:  INFO - program started
+2022-12-27 02:20:17.746529:  INFO - program started
+2022-12-27 02:20:30.921203:  INFO - program started
+2022-12-28 02:20:17.229778:  INFO - program started
+2022-12-28 02:20:30.369020:  INFO - program started
+2022-12-29 02:20:17.353440:  INFO - program started
+2022-12-29 02:20:30.478636:  INFO - program started
+2022-12-30 02:20:17.098852:  INFO - program started
+2022-12-30 02:20:30.285062:  INFO - program started
+2022-12-31 02:20:17.713818:  INFO - program started
+2022-12-31 02:20:30.928734:  INFO - program started
+2023-01-01 02:20:17.454720:  INFO - program started
+2023-01-01 02:20:30.674098:  INFO - program started
+2023-01-02 02:20:16.941202:  INFO - program started
+2023-01-02 02:20:30.050380:  INFO - program started
+2023-01-03 02:20:17.517756:  INFO - program started
+2023-01-03 02:20:30.554831:  INFO - program started
+2023-01-04 02:20:17.015395:  INFO - program started
+2023-01-04 02:20:30.242870:  INFO - program started
+2023-01-05 02:20:17.040098:  INFO - program started
+2023-01-05 02:20:30.243233:  INFO - program started
+2023-01-06 02:20:17.276053:  INFO - program started
+2023-01-06 02:20:30.398131:  INFO - program started
+2023-01-07 02:20:17.617462:  INFO - program started
+2023-01-07 02:20:30.788887:  INFO - program started
+2023-01-07 11:48:26.002381:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2023-1-7
+2023-01-07 11:48:45.771644:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2023-1-7
+2023-01-07 11:49:01.341064:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2023-1-6
+2023-01-07 11:49:06.594602:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2023-1-6
+2023-01-07 11:49:13.289673:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2023-1-6
+2023-01-07 11:50:27.793583:  INFO PFV - fv data updated for: 192.168.5.50 @date: 2023-1-6
